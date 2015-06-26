@@ -8,4 +8,4 @@ Sadly, your immediate superior ended up very incompetent and dead, natives of th
 
 ## Summary
 
-This is compilation of a empire builder style quest, set in the universe of [https://en.wikipedia.org/wiki/Strike_Witches](Strike Witches) that ran on [https://forums.spacebattles.com/](SpaceBattles forum) and later on [http://forums.sufficientvelocity.com/](Sufficient Velocity forum) with the purpose of preserving the quest and making it easily available for new reading by new people and old alike. No profit is intended.
+This is compilation of a empire builder style quest, set in the universe of [Strike Witches](https://en.wikipedia.org/wiki/Strike_Witches) that ran on [SpaceBattles forum](https://forums.spacebattles.com/) and later on [Sufficient Velocity forum](http://forums.sufficientvelocity.com/) with the purpose of preserving the quest and making it easily available for new reading by new people and old alike. No profit is intended.
