@@ -1,4 +1,4 @@
-# Turn 1, January 1945: War
+# Turn 1, January 1946: War
 
 You decide to focus on destroying the Baltic Fleet. The idea of not having to deal with human naval forces greatly appeals to you.  
 Your aerial units split off to hit multiple ports across the Baltic, hopefully doing enough damage to annihilate the human fleet before the invasion.
