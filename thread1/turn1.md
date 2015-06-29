@@ -28,14 +28,14 @@ Humans are all around you, though the Eastern front is at least relatively safe.
 - []
 
 ####Proposed actions:
-- *Reconnaissance:* You know that the humans will attack soon, but you don't know from where. Sending out some aerial units might help you get a better idea.
-Rewards: Knowledge of human attack plan.
-- *Defensive build-up:* You need fortifications, fast. The humans won't wait. Fortify Karlsland as much as possible in the amount of time you have.
-Rewards: Enhanced defences in Karlsland.
-- *Atlantic Assistance:* The Atlantic Hive's been doing nothing for this whole war, surely they'll lend a hand now, with you on the brink of defeat?
-Rewards: Atlantic Hive Surfaces and attacks the Allies. Possible reinforcements.
-- *Write in:* Anything you can think of doing, from raiding, to diplomacy, to a surprise counter-attack to building more units. Note that you need to spend an action to recruit units.
-Rewards: ???
+- *Reconnaissance:* You know that the humans will attack soon, but you don't know from where. Sending out some aerial units might help you get a better idea.  
+*Rewards:* Knowledge of human attack plan.
+- *Defensive build-up:* You need fortifications, fast. The humans won't wait. Fortify Karlsland as much as possible in the amount of time you have.  
+*Rewards:* Enhanced defences in Karlsland.
+- *Atlantic Assistance:* The Atlantic Hive's been doing nothing for this whole war, surely they'll lend a hand now, with you on the brink of defeat?  
+*Rewards: *Atlantic Hive Surfaces and attacks the Allies. Possible reinforcements.
+- *Write in:* Anything you can think of doing, from raiding, to diplomacy, to a surprise counter-attack to building more units. Note that you need to spend an action to recruit units.  
+*Rewards:* ???
 
 ###Research Actions:  
 - []  
