@@ -6,9 +6,11 @@ Your aerial units split off to hit multiple ports across the Baltic, hopefully d
 Your forces report that they are nearing attack range, and the humans seem none the wiser. You can even see some of the AA gunners relaxing and joking around. You've split your flyers to hit multiple targets of opportunity, but you'll only have the element of surprise for a short time, so it would be best to pick the target for your first strike wisely.
 
 ---
+_Orders?_
+
 - **[X]** Target the ships, you can destroy them before they get their guns online.
-- **[ ]** Target the barracks and other quarters, you can kill crew, officers, pilots, and most importantly, the Witches before they have a chance to get airborne.
-- **[ ]** Target the depots. Destroying their ammunition and fuel reserves could force the humans to wait a couple of months before they're replaced. 
+- Target the barracks and other quarters, you can kill crew, officers, pilots, and most importantly, the Witches before they have a chance to get airborne.
+- Target the depots. Destroying their ammunition and fuel reserves could force the humans to wait a couple of months before they're replaced. 
 
 ---
 A pair of young Liberion soldiers who were supposed to be manning one of the AA guns in Copenhagen leaned against a wall.  
@@ -39,10 +41,33 @@ So far, the attack has gone even better than expected. With the humans still ree
 - **Neuroi casualties:** 1 Small Type Flier Group.
 
 ---
-- **[ ]** Focus on destroying the Witches and barracks. Grounded without their Strikers, this is probably the most vulnerable you'll ever catch them at, and if you're lucky you can wipe out a good chunk of the veterans and officers.
-- **[ ]** Focus on destroying the infrastructure. Taking out harbours, factories, rail-roads, bases, munitions and fuel dumps will cripple the region, reducing the fleet's effectiveness further and making Southern Baltland (RL Denmark) an easier target in the future.
-- **[ ]** You've done enough damage, time to bug out.
+_Orders?_
+
+- Focus on destroying the Witches and barracks. Grounded without their Strikers, this is probably the most vulnerable you'll ever catch them at, and if you're lucky you can wipe out a good chunk of the veterans and officers.
+- **[X]** Focus on destroying the infrastructure. Taking out harbours, factories, rail-roads, bases, munitions and fuel dumps will cripple the region, reducing the fleet's effectiveness further and making Southern Baltland (RL Denmark) an easier target in the future.
+- You've done enough damage, time to bug out.
 
 ---
+ 
+ - Primary objective is destroying Hangars, Fuel Depots, and Munitions. Failing this, dealing sufficient damage to Air resources to prevent their operation. Secondary objectives include Factories and bases. Tertiary objectives include major ground transportation routes, harbors, and rail-roads. Enemy casualties are not to be a priority, infrastructure and Air Fleet are main objectives here.
+ - If Witches begin taking to the air in force, retreat. This attack was meant to disable the Baltic fleet, and it has succeeded beyond our wildest hopes. Anything more is just a bonus now.
+
+---
+You dispatch most of your remaining Flyers to destroy any infrastructure they can find in Baltland. The Neuroi go to their work happily. Factories, AA guns, bases are blasted off the map. Fuel dumps and munitions ignite in massive fireballs, and fires spread across the land, causing even more chaos. Baltland's coasts are flaming ruins.
+
+Your attempts to stop the Witches and ships go less successfully, however. Now alerted, human gunners unleash storms of lead, downing dozens of Neuroi, and the remaining ships unload entire arsenals of fire at your forces, shielding the last two Carriers and three battleships from further damage.
+
+Finally, the Witches manage to get into the air, and hurl themselves at your fliers with a vengeance. Small and Medium Types go down in droves, and with more forces arriving, you finally retreat, leaving the survivors to frantically fight the fires spreading across Baltland.
+
+---
+- **Total Neuroi Casualties:** 7 Small Type Flier Groups, 4 Medium Type Flier Groups
+- **Total Human Casualties:** 3 Aircraft Carriers, Five Battleships, 35 lesser ships, over 200 fighters, massive infrastructural damage
 
 
+####Results:
+- Human Baltic Fleet rendered combat ineffective by losses. No amphibious attack in Karlsland Invasion.
+- Infrastructural damage has severely reduced Baltland's ability to defend against invasion.
+- Britannian and Gallian Pacific Fleets recalled from attack on Vladivastok to Atlantic for defense of homeland. Increased relations with Vladivastok Hive. Britannian and Gallian relations with Orussia slightly deteriorate.
+- Surviving witches and personnel transferred to Gallia for invasion.
+- Invasion of Karlsland delayed by 2 months.
+- Human morale plummets, human base security increased as result.
