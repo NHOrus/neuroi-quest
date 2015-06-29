@@ -17,7 +17,7 @@ The stubborn, warlike, determined, unyielding, and brave human race.
 0. 10 Large Type Groups (Strong vs most units, Decent vs Witches, few in number) (Costs 50 RU)
 0. 5 Ultra-Heavy Groups (Very Strong vs all ground units, weak vs bombers, very few in number, big and obvious targets) (Costs 100 RU)
 
-![Map of Europe as of now](t01_euro_map.jpg)
+![Map of Europe as of now](../images/t01_euro_map.jpg)
 
 At the moment, the Neuroi are in control of Karlsland (the purple country). At least the parts of it that are east of the Rhine River.
 Humans are all around you, though the Eastern front is at least relatively safe.
@@ -27,7 +27,7 @@ Humans are all around you, though the Eastern front is at least relatively safe.
 - []  
 - []
 
-###Proposed actions:
+####Proposed actions:
 - *Reconnaissance:* You know that the humans will attack soon, but you don't know from where. Sending out some aerial units might help you get a better idea.
 Rewards: Knowledge of human attack plan.
 - *Defensive build-up:* You need fortifications, fast. The humans won't wait. Fortify Karlsland as much as possible in the amount of time you have.
@@ -42,7 +42,7 @@ Rewards: ???
 - []  
 - []  
 
-###Proposed Research Actions
+####Proposed Research Actions
 - *Witch Capture unit:* If you're going to be taking Yoshika Miyafuji for study, you probably need a way to capture humans alive.
 - *Neuroi water adaptation:* The Neuroi don't do well in, or above water, maybe you can change that?
 - *Enhanced Targeting:* Since this war began, Witches and skilled fighter pilots have shown the ability to dodge Neuroi lasers with surprising ease. Remedy this.

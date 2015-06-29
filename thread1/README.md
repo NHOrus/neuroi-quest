@@ -17,10 +17,12 @@ Good luck.
 - **Berlin**: One of the first Hives to be deployed on Earth, now uncomfortably close to the front lines as enemies in all directions plan its destruction. It has an additional objective: Acquire Yoshika Miyafuji, to research her ability to regain Ambient Energy Usage.  
   - *Pros*: Research Budget: Neuroi Hives must preserve some of their resources for shipment back home. However, the importance of studying Ambient Energy Usage means the Berlin Hive has a larger "Budget" to do things with. Additionally, you gain a bonus to research.  
   - *Cons*: Little Girls, Big Guns: Karlsland reeeeaally wants its homeland back. Since Karlsland is moving quite ahead in military technology, especially Strikers, you can expect lots of witches coming at you, including the 501st itself, and if you want to complete your objective, you're going to be fighting them.
+  
 
 - **Vladivastok**: Former home of the Orussian Pacific Fleet, now home to the Neuroi. Aside from that, there's not much special about it, aside from Orussia wanting its port back. It's been under Neuroi control for some time now though, and they've made sure that there's nowhere nearby the humans can feel safe.  
   - *Pros*: This is My Town: The Neuroi have fortified the region like nothing else. From entrenched laser batteries to mines, the place is about as well-protected as it gets. Also, human forces lack any nearby havens to resupply, meaning they'll be operating on a very long supply train.  
   - *Cons*: The Neuroi don't have a Navy: If they haven't been modified extensively, Neuroi do very poorly in the water. Sadly, Vladivastok is a port, so you'll be seeing a lot of it. And a lot of humanity's Pacific Navies.
+  
 
 - **Suez**: Entryway into the Suez Canal. It's been under Neuroi control for some time, and humanity wants it back. Against them is what has been the most powerful of the Neuroi forces since the beginning of the war.  
   - *Pros*: Badass Army: The Suez Hive is home to the most powerful Neuroi military forces on Earth.  
