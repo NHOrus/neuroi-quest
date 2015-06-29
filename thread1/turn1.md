@@ -1,4 +1,4 @@
-# Turn 1: Planning
+# Turn 1, January 1945: Planning
 
 You are in command of the `Berlin Hive`, leading what's left of the European Neuroi. Which isn't much right now, all things considered. Ostmark fell a couple weeks ago, and you're barely holding the humans back at the Rhine.  
 For the moment you don't have to worry about the Eastern front. Orussia's sending most of its forces to retake Vladivastok, but if either of your fellow Hives fall, you can expect the hammer to come down on you hard very, very quickly.  
