@@ -13,8 +13,9 @@
 	* [Turn 3 combat: Rhine](thread1/turn3w1.md)
 	* [Turn 3 combat: Berlin](thread1/turn3w2.md)
 	* [Turn 3 news](thread1/turn3n.md)
-	* [Omake: I Stand in Berlin](thread1/turn3o1.md)
-	* [Omake: Memoirs of a Witch.](thread1/turn3o2.md)
+	* [I Stand in Berlin](thread1/turn3o1.md)
+	* [Memoirs of a Witch.](thread1/turn3o2.md)
+	* [Turn 4](thread2/turn4.md)
 	
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)

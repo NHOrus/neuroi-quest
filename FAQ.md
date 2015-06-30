@@ -14,3 +14,4 @@ It's reliable, since it's not sentient and lacks a Soul, but not exactly all pow
 **Q:** Is war amongst the Hive Clusters truly so common?  
 **A:** Not very common, but it does happen occasionally.  
 With the history between `206` and `302`, most people are just surprised it didn't happen sooner.
+
