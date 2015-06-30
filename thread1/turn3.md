@@ -5,8 +5,8 @@ At least you know how much you'll be facing, for all the pain it gives your conf
 
 **Human Karlsland invasion force:** 4 million soldiers, 8,000 tanks, 80 Super-heavy tanks, 5,500 artillery pieces, 2,200 fighters, 800 bombers, 60 Witches
 
-###Resources: `8,380 RU`
-###Units:
+####Resources: `8,380 RU`
+####Units:
 0. 45 Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs 10 RU)
 0. 5 Anti-Vehicle Bot Divisions: Very Strong vs Light Vehicles, Strong vs Tanks, weak vs Infantry and aircraft, Short ranged) (Costs 10 RU)
 0. 20 Neuroi Walker Groups (Strong vs Tanks, Infantry, Decent vs Air units, Weak vs witches and Artillery) (Costs 25 RU)
