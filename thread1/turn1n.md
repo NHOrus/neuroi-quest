@@ -12,8 +12,8 @@
 
 ###Empire-wide news.
 
-**War with Fahrong Conglomerate enters its 89th year!** yaaaaaay.
+**War with Fahrong Conglomerate enters its `89th` year!** yaaaaaay.
 
 **Laser tag upset!** The Blazing Razors have beaten the Molten Comets with a score of 75 to 3! Accusations of cheating are everywhere!
 
-**War on Earth goes poorly** The Neuroi of Hive Cluster 206 have been having a miserable time fighting the inhabitants of their new world! Hive Cluster 302, 206's legendary rivals, claim willingness to "make up for 206's failures". Borders between the two show increase in private military forces.
+**War on Earth goes poorly** The Neuroi of Hive Cluster `206` have been having a miserable time fighting the inhabitants of their new world! Hive Cluster `302`, `206`'s legendary rivals, claim willingness to "make up for `206`'s failures". Borders between the two show increase in private military forces.

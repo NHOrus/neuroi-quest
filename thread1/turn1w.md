@@ -60,8 +60,8 @@ Your attempts to stop the Witches and ships go less successfully, however. Now a
 Finally, the Witches manage to get into the air, and hurl themselves at your fliers with a vengeance. Small and Medium Types go down in droves, and with more forces arriving, you finally retreat, leaving the survivors to frantically fight the fires spreading across Baltland.
 
 ---
-- **Total Neuroi Casualties:** 7 Small Type Flier Groups, 4 Medium Type Flier Groups
-- **Total Human Casualties:** 3 Aircraft Carriers, Five Battleships, 35 lesser ships, over 200 fighters, massive infrastructural damage
+- **Total Neuroi Casualties:** `7` Small Type Flier Groups, `4` Medium Type Flier Groups
+- **Total Human Casualties:** `3` Aircraft Carriers, `Five` Battleships, `35` lesser ships, `over 200` fighters, `massive` infrastructural damage
 
 
 ####Results:

@@ -3,16 +3,16 @@
 ###Actions
 
 - **Production:** `5,080 RU`  
-  0. 40 Infantry Bot Divisions `400 RU`
-  0. 20 Anti-Vehicle Bots Divisions `200 RU`
-  0. 30 Neuroi Walker Groups `750 RU`
-  0. 20 Small Type Flyer groups `400 RU`
-  0. 16 Medium Type Groups `480 RU`
-  0. 15 Large Type Groups `750 RU`
-  0. 9 Ultra-Heavy Groups `900 RU`
-  0. 4 Neuroi Witch Mark 1 Groups `1200 RU`
+  0. `40` Infantry Bot Divisions `400 RU`
+  0. `20` Anti-Vehicle Bots Divisions `200 RU`
+  0. `30` Neuroi Walker Groups `750 RU`
+  0. `20` Small Type Flyer groups `400 RU`
+  0. `16` Medium Type Groups `480 RU`
+  0. `15` Large Type Groups `750 RU`
+  0. `9` Ultra-Heavy Groups `900 RU`
+  0. `4` Neuroi Witch Mark 1 Groups `1200 RU`
   
-You pump out more units like there's no tomorrow, and there probably won't be if the humans win. Hundreds of thousands of Bots, a couple thousand Walkers, thousands of flyers, are almost 30 Neuroi Witches are churned out in a month, exhausting most of your resource stockpile. It'll be worth it if you survive though.
+You pump out more units like there's no tomorrow, and there probably won't be if the humans win. Hundreds of thousands of Bots, a couple thousand Walkers, thousands of flyers, are almost `30` Neuroi Witches are churned out in a month, exhausting most of your resource stockpile. It'll be worth it if you survive though.
 
 - **Ain't that a Dam Shame?:** With the Baltic Fleet gone, the humans will need to come over the Rhine to attack you. Maybe you could make it significantly harder? `500 RU`  
 **Rewards:** Human difficulty crossing Rhine increased. Invasion possibly delayed further.  
@@ -37,9 +37,9 @@ You send out your second generation Lasers to Vladivastok and Suez, while sendin
 *Suez* is much closer, and soon human comm channels are surprised when a sudden push from the Suez Hive takes them all the way to the northern coast of Egypt, with their new, more accurate lasers. Several transports under heavy escort shove their way into Karlsland, deploying large amounts of reinforcements for the coming battle, including two legendary Land Battleships.  
 *Atlantic* stays silent, but reports say that several Allied convoys carrying vital supplies and soldiers were lost at sea, with no one having any idea what happened to them.   
 **Reward:** Automatically completed research on Mines, Torpedoes, and Improved fortifications.  
-*Reinforcements from Suez:* 2 Land Battleships, 5 Ultra Heavy Groups, 25 Walker Groups, 50 Infantry Bot Groups, 25 Anti-Vehicle Infantry Bot Groups  
+*Reinforcements from Suez:* `2` Land Battleships, `5` Ultra Heavy Groups, `25` Walker Groups, `50` Infantry Bot Groups, `25` Anti-Vehicle Infantry Bot Groups  
 *Atlantic Hive* does something for a change.  
-*Suez* Hive Conquers Egypt!
+*Suez Hive* Conquers Egypt!
 
 
 - **Human Biology**  
@@ -50,29 +50,29 @@ You send out a series of quick raids across human territory and capture a couple
 ####Resources (RU): `300`
 ####Income: `1,000` per turn
 - *Units:*
-  0. 85 Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs 10 RU)
-  0. 25 Anti-Vehicle Bot Divisions: Very Strong vs Light Vehicles, Strong vs Tanks, weak vs Infantry and aircraft, Short ranged) (Costs 10 RU)
-  0. 50 Neuroi Walker Groups (Strong vs Tanks, Infantry, Slightly Strong vs Air units, Weak vs witches and Artillery) (Costs 25 RU)
-  0. 53 Small Type Flyer groups (Strong vs bomber and fighters, Decent vs lightly armoured ground units, weak vs Witches, Very Weak vs AA) (Costs 20 RU)
-  0. 32 Medium Type Groups (Strong vs most ground units, Slightly Strong vs fighters, Weak vs Witches) (Costs 30 RU)
-  0. 25 Large Type Groups (Strong vs most units, Slightly Strong vs Witches, few in number) (Costs 50 RU)
-  0. 14 Ultra-Heavy Groups (Very Strong vs all ground units, Slightly Weak vs bombers, very few in number, big and obvious targets) (Costs 100 RU)
-  0. 4 Neuroi Witch Mark 1 Groups (Strong vs Witches, bombers, light vehicles and infantry. Strong vs Fighters. Weak vs AA.) (Cost: 300 RU per group)
+  0. `85` Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs `10` RU)
+  0. `25` Anti-Vehicle Bot Divisions: Very Strong vs Light Vehicles, Strong vs Tanks, weak vs Infantry and aircraft, Short ranged) (Costs `10` RU)
+  0. `50` Neuroi Walker Groups (Strong vs Tanks, Infantry, Slightly Strong vs Air units, Weak vs witches and Artillery) (Costs `25` RU)
+  0. `53` Small Type Flyer groups (Strong vs bomber and fighters, Decent vs lightly armoured ground units, weak vs Witches, Very Weak vs AA) (Costs `20` RU)
+  0. `32` Medium Type Groups (Strong vs most ground units, Slightly Strong vs fighters, Weak vs Witches) (Costs `30` RU)
+  0. `25` Large Type Groups (Strong vs most units, Slightly Strong vs Witches, few in number) (Costs `50` RU)
+  0. `14` Ultra-Heavy Groups (Very Strong vs all ground units, Slightly Weak vs bombers, very few in number, big and obvious targets) (Costs `100` RU)
+  0. `4` Neuroi Witch `Mark 1` Groups (Strong vs Witches, bombers, light vehicles and infantry. Strong vs Fighters. Weak vs AA.) (Cost: `300` RU per group)
 
 - *Suez Hive Reinforcements:*
-  0. 2 Land Battleships (Excellent v.s. Everything)
-  0. 5 Ultra Heavy Groups
-  0. 25 Walker Groups
-  0. 50 Infantry Bot Groups
-  0. 25 Anti-Vehicle Infantry Bot Groups
+  0. `2` Land Battleships (Excellent v.s. Everything)
+  0. `5` Ultra Heavy Groups
+  0. `25` Walker Groups
+  0. `50` Infantry Bot Groups
+  0. `25` Anti-Vehicle Infantry Bot Groups
 
 v.s.
 
 ####Human Karlsland invasion force
-  0. 4 million soldier
-  0. 8,000 tanks
-  0. 80 Super-heavy tanks
-  0. 5,500 artillery pieces
-  0. 2,200 fighters
-  0. 800 bombers
-  0. 60 Witches
+  0. `4` million soldier
+  0. `8,000` tanks
+  0. `80` Super-heavy tanks
+  0. `5,500` artillery pieces
+  0. `2,200` fighters
+  0. `800` bombers
+  0. `60` Witches

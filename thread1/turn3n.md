@@ -4,7 +4,7 @@
 
 **Inter-Cluster Warfare!** After an inconclusive investigation, the tension between Hive Clusters `206` and `302` has erupted into all out war. Over `100` Super-Hives have engaged each other across the Border. So far the conflict is a stalemate, though rumour has it that both sides are preparing fleets to remove elements of the other's mining operations across Known Space.
 
-**Shocking Defeat!** The 2nd Assault Cluster, consisting of over `3,000` Mega-Hives, has been almost completely wiped out in a titanic battle near the Fahrong Home Systems. While Fahrong losses appear to be even more devastating, the loss of an entire Cluster has the Empire reeling, and yet more protests are calling for an end to the war at the negotiation table.
+**Shocking Defeat!** The `2nd Assault Cluster`, consisting of over `3,000` Mega-Hives, has been almost completely wiped out in a titanic battle near the Fahrong Home Systems. While Fahrong losses appear to be even more devastating, the loss of an entire Cluster has the Empire reeling, and yet more protests are calling for an end to the war at the negotiation table.
 
 ##Human Intelligence
 

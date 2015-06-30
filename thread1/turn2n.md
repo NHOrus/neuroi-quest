@@ -4,7 +4,7 @@
 
 **Military News says Fahrong will soon be defeated!** Just like they said last year! And the year before that! And the year before that!
 
-**Tensions rise between 206 and 302!** Boarder patrols between the two Hive Clusters exchanged fire recently, each claiming the other was violating its territory. Investigations under-way. Civilians advised to avoid the territory of the two Clusters in case conflict breaks out.
+**Tensions rise between `206` and `302`!** Boarder patrols between the two Hive Clusters exchanged fire recently, each claiming the other was violating its territory. Investigations under-way. Civilians advised to avoid the territory of the two Clusters in case conflict breaks out.
 
 **Protests along the Fringes!** Members of the Movement for the Union of Sentients (MUS) launch another mass protest at the Empire's actions to fellow sentient species, denouncing the common exterminations as barbaric and unprovoked. The Movement has been gaining a large amount of supporters in the borders of the Empire, enough that a crackdown by the military could have severe consequences.
 

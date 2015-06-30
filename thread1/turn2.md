@@ -4,14 +4,14 @@ Things look significantly better than they did a month ago. The human Baltic Fle
 
 
 ####Resources (RU): `6,000`
-####Income: 1,000 per turn
+####Income: `1,000` per turn
 ####Units:
-0. 50 Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs 10 RU)
-0. 20 Neuroi Walker Groups (Strong vs Tanks, Infantry, Decent vs Air units, Weak vs witches and Artillery) (Costs 25 RU)
-0. 33 Small Type Flyer groups (Strong vs bombers, decent vs fighters and lightly armoured ground units, Very weak vs AA and Witches) (Costs 20 RU)
-0. 16 Medium Type Groups (Strong vs most ground units, weak vs fighters, Very Weak vs Witches) (Costs 30 RU)
-0. 10 Large Type Groups (Strong vs most units, Decent vs Witches, few in number) (Costs 50 RU)
-0. 5 Ultra-Heavy Groups (Very Strong vs all ground units, weak vs bombers, very few in number, big and obvious targets) (Costs 100 RU)
+0. `50` Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs `10` RU)
+0. `20` Neuroi Walker Groups (Strong vs Tanks, Infantry, Decent vs Air units, Weak vs witches and Artillery) (Costs `25` RU)
+0. `33` Small Type Flyer groups (Strong vs bombers, decent vs fighters and lightly armoured ground units, Very weak vs AA and Witches) (Costs `20` RU)
+0. `16` Medium Type Groups (Strong vs most ground units, weak vs fighters, Very Weak vs Witches) (Costs `30` RU)
+0. `10` Large Type Groups (Strong vs most units, Decent vs Witches, few in number) (Costs `50` RU)
+0. `5` Ultra-Heavy Groups (Very Strong vs all ground units, weak vs bombers, very few in number, big and obvious targets) (Costs `100` RU)
 
 ###Actions:
 - []

@@ -3,18 +3,18 @@
 The humans have begun moving their forces near the Rhine. Several small, inconclusive skirmishes have taken place, with losses easily replaced by both sides. Unless they are delayed further, the attack will likely come at the end of the month.  
 At least you know how much you'll be facing, for all the pain it gives your confidence.
 
-**Human Karlsland invasion force:** 4 million soldiers, 8,000 tanks, 80 Super-heavy tanks, 5,500 artillery pieces, 2,200 fighters, 800 bombers, 60 Witches
+**Human Karlsland invasion force:** `4 million` soldiers, `8,000` tanks, `80` Super-heavy tanks, `5,500` artillery pieces, `2,200` fighters, `800` bombers, `60` Witches
 
 ####Resources: `8,380 RU`
 ####Units:
-0. 45 Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs 10 RU)
-0. 5 Anti-Vehicle Bot Divisions: Very Strong vs Light Vehicles, Strong vs Tanks, weak vs Infantry and aircraft, Short ranged) (Costs 10 RU)
-0. 20 Neuroi Walker Groups (Strong vs Tanks, Infantry, Decent vs Air units, Weak vs witches and Artillery) (Costs 25 RU)
-0. 33 Small Type Flyer groups (Strong vs bomber and fighters, Decent vs lightly armoured ground units, Very weak vs AA and Witches) (Costs 20 RU)
-0. 16 Medium Type Groups (Strong vs most ground units, Decent vs fighters, Very Weak vs Witches) (Costs 30 RU)
-0. 10 Large Type Groups (Strong vs most units, Decent vs Witches, few in number) (Costs 50 RU)
-0. 5 Ultra-Heavy Groups (Very Strong vs all ground units, weak vs bombers, very few in number, big and obvious targets) (Costs 100 RU)
-0. 0 Neuroi Witch Mark 1 Groups (Strong vs Witches, bombers, light vehicles and infantry. Decent vs Fighters. Weak vs AA.) (Cost: 300 RU per group)
+0. `45` Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs 10 RU)
+0. `5` Anti-Vehicle Bot Divisions: Very Strong vs Light Vehicles, Strong vs Tanks, weak vs Infantry and aircraft, Short ranged) (Costs 10 RU)
+0. `20` Neuroi Walker Groups (Strong vs Tanks, Infantry, Decent vs Air units, Weak vs witches and Artillery) (Costs 25 RU)
+0. `33` Small Type Flyer groups (Strong vs bomber and fighters, Decent vs lightly armoured ground units, Very weak vs AA and Witches) (Costs 20 RU)
+0. `16` Medium Type Groups (Strong vs most ground units, Decent vs fighters, Very Weak vs Witches) (Costs 30 RU)
+0. `10` Large Type Groups (Strong vs most units, Decent vs Witches, few in number) (Costs 50 RU)
+0. `5` Ultra-Heavy Groups (Very Strong vs all ground units, weak vs bombers, very few in number, big and obvious targets) (Costs 100 RU)
+0. `0` Neuroi Witch Mark 1 Groups (Strong vs Witches, bombers, light vehicles and infantry. Decent vs Fighters. Weak vs AA.) (Cost: 300 RU per group)
 
 ###Actions:
 - []

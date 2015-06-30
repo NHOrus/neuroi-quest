@@ -2,7 +2,7 @@
 
 ##Battle For Karlsland: Rhine
 
-The human invasion starts off with the largest barrage of artillery you've ever seen. 5,500 guns light up the night, raining countless tons of ordinance on positions across the Rhine River in a barrage that goes on for hours. In the air the Allied bombers escorted by Witches and fighters move out to bomb any areas that were intact. Other fighters loaded with rockets and bombs launch attack runs on fortifications, loosing endless volleys on your forces in the initial hours of the attack. You even see hundreds of human transport planes taking off to unknown destinations.
+The human invasion starts off with the largest barrage of artillery you've ever seen. `5,500` guns light up the night, raining countless tons of ordinance on positions across the Rhine River in a barrage that goes on for hours. In the air the Allied bombers escorted by Witches and fighters move out to bomb any areas that were intact. Other fighters loaded with rockets and bombs launch attack runs on fortifications, loosing endless volleys on your forces in the initial hours of the attack. You even see hundreds of human transport planes taking off to unknown destinations.
 
 Of course, your own forces respond with equal ferocity. Lasers lance out from emplacements in every position across the Rhine, bringing down planes in the dozens, while your own fliers take to the air against the humans, but there are simply too many of them, and too few of your own fliers nearby. The human Flak 88 and other AA guns open fire as well, downing even more of your fliers. You still have spare Small Types and a few Large Types, but you can only send them after one target, with the amount of human fliers in the air.
 
@@ -34,7 +34,7 @@ With the sheer amount of fire-power present, it's unlikely you can hold onto the
 "FUCK! FUCK! FUUUUUCK!"  
 
 All of these are common statements coming from the human fighter pilots. Faced with new homing lasers and lacking any meaningful numbers advantage, they are being shot down with ease, losing almost half their number for a much smaller loss of Neuroi.  
-**Human Losses:** `900 Fighters`  
+**Human Losses:** `900` Fighters  
 **Neuroi Losses:** `12` Small Type Flyer Groups
 
 ---
@@ -50,12 +50,12 @@ Attacking the AA guns goes less well, however. The sheer number of them keeps yo
 
 ---
 Then the bombers come in. AA Emplacements send red beams of light into the air, tearing through dozens of them, but even more come through, even as the forces you sent to deal with the transports attack as well. Thousands of bombs rain on your fortifications, destroying emplacements, Bots, and Walkers alike, severely damaging your defences across the Rhine.  
-**Human Losses:** 250 Bombers  
-**Neuroi Losses:** 8 Infantry Bot Divisions, 4 Anti-Vehicle Bot Divisions, 5 Walker Groups, 35% of Rhine River Emplacements Destroyed.  
+**Human Losses:** `250` Bombers  
+**Neuroi Losses:** `8` Infantry Bot Divisions, `4` Anti-Vehicle Bot Divisions, `5` Walker Groups, `35%` of Rhine River Emplacements Destroyed.  
 
 ---
-###Human Assault Boat
-###Private Nichols
+####Human Assault Boat
+####Private Nichols
 
 You're sweating, pale, nearly puking riding in this piece-of-shit boat floating down a river that's doing its damn best to upturn the whole thing and let everyone onboard drown. You see a laser streak and hear an explosion signalling the destruction of a nearby boat. You can't help but wonder why you're even here. Oh yeah, that's right, because command decided that they could afford to lose you and your whole damn division more than they'd like to lose their precious new tanks and fancy pant-less princesses.
 
