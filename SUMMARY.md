@@ -8,6 +8,7 @@
 	* [Turn 2](thread1/turn2.md)
 	* [Turn 2 results](thread1/turn2r.md)
 	* [Turn 2 news](thread1/turn2n.md)
+	* [Turn 3](thread1/turn3.md)
 	
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)

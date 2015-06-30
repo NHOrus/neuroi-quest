@@ -3,7 +3,7 @@
 Things look significantly better than they did a month ago. The human Baltic Fleet is in ruins, and what's left of it is legging it to some port a very long distance away from you. But, despite your victory, this is no time to relax, you've got an invasion to prepare against, and political shenanigans at home with `HC 302.`
 
 
-####Resources (RU): 6,000
+####Resources (RU): `6,000`
 ####Income: 1,000 per turn
 ####Units:
 0. 50 Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs 10 RU)
