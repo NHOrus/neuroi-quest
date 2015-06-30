@@ -9,6 +9,8 @@
 	* [Turn 2 results](thread1/turn2r.md)
 	* [Turn 2 news](thread1/turn2n.md)
 	* [Turn 3](thread1/turn3.md)
+	* [Turn 3 results](thread1/turn3r.md)
+	* [Turn 3 combat](thread1/turn3w.md)
 	
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
