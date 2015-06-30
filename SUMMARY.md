@@ -10,7 +10,8 @@
 	* [Turn 2 news](thread1/turn2n.md)
 	* [Turn 3](thread1/turn3.md)
 	* [Turn 3 results](thread1/turn3r.md)
-	* [Turn 3 combat](thread1/turn3w.md)
+	* [Turn 3 combat: Rhine](thread1/turn3w1.md)
+	* [Turn 3 combat: Berlin](thread1/turn3w2.md)
 	
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)

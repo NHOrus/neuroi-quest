@@ -1,6 +1,6 @@
 #Turn 3, March 1946, War
 
-##Battle For Karlsland
+##Battle For Karlsland: Rhine
 
 The human invasion starts off with the largest barrage of artillery you've ever seen. 5,500 guns light up the night, raining countless tons of ordinance on positions across the Rhine River in a barrage that goes on for hours. In the air the Allied bombers escorted by Witches and fighters move out to bomb any areas that were intact. Other fighters loaded with rockets and bombs launch attack runs on fortifications, loosing endless volleys on your forces in the initial hours of the attack. You even see hundreds of human transport planes taking off to unknown destinations.
 
