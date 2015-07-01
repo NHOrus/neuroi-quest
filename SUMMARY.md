@@ -16,6 +16,8 @@
 	* [I Stand in Berlin](thread1/turn3o1.md)
 	* [Memoirs of a Witch](thread1/turn3o2.md)
 	* [Turn 4](thread1/turn4.md)
+	* [Turn 4 results](thread1/turn4r.md)
+	* [Turn 4 combat](thread1/turn4w.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
