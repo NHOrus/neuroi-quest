@@ -8,7 +8,7 @@ You consider your choices. Going to Gallia or Ostmark with your forces is out. G
 Going to Baltland is tempting. After all, you did just devastate their entire military a couple months ago. However, The Italian Peninsula calls you more. You owe Suez a favour, and it's time to pay it back.
 
 First though, you need a foot hold on the other side of the Alps. The small, independent confederacy of Helvetica will do nicely. Your forces advance swiftly through the mountainous country, smashing aside most resistance. However, you still sustained casualties, particularly among the Infantry Bots and Small Type Flyers.  
-**Lost `9` Infantry Bot Divisions, `2` Anti-Vehicle Bot Divisions, `1` Walker Group, `6` Small Type Flyer Groups, and `2` Medium Type Flyer Groups**
+**Lost** `9` Infantry Bot Divisions, `2` Anti-Vehicle Bot Divisions, `1` Walker Group, `6` Small Type Flyer Groups, and `2` Medium Type Flyer Groups
 
 Still, Helvetica is yours now, and you have a direct line of attack on Romagna.  
 Unfortunately, if you want to take Romagna, your first obstacle is the Alpine Wall. Countless fortified sights, built into the mountainsides, and in many other cases, they are filled with AA guns, with air bases nearby ready to launch hundreds of fighters and bombers to oppose any invasion. As the war continued, the Wall was only reinforced further.
@@ -21,11 +21,77 @@ There are multiple areas of importance where you will face the most resistance, 
 
 **Italia Airfield:** The bulk of Romagna and Venezia's fighter squadrons in the north are based here. Protected by a fortress of AA guns and covered with hangers for hundreds of fighters, and even a few Witches.
 
-###Alpine Defense Perimeter:
-![[Alpine Defence Perimeter](../images/adp.jpg)
+###Alpine Defense Perimeter:  
+![Alpine Defence Perimeter](../images/adp.jpg)  
 If there's anything that'll stop you, it'll be this.  
 A massive net of AA guns of all calibres, built in a dozen key locations across the mountains. Unless you destroy these, your transports will be blown to pieces.
 
 Aside from this, there are several lesser military bases near the Alps. Once clear of the Alps, you can land your transports anywhere. But first, you must secure a clear landing zone for them.
 
 *What are your orders?*
+
+---
+
+##Invasion of Romagna, Part 1
+
+###Plan Javelin
+- **Stage One:** Deploy N Witches and Small type flyers as Strike Teams and approach at high speed and low altitude under the cover of darkness, ideally getting below their radar screen and moving in small enough numbers that it shouldn't cause an immediate panic--at the moment, they shouldn't have proper doctrine to counter Witch-types on our end. Focus on targeting regions to get us access corridors to Genoa and the Italia Airfield. Use Strike Teams to cripple AA defenses in these areas, and allow a swift follow up attack from the rest of our Air Force. Make use of radio jamming and communications blackouts during this window to delay enemy response and coordination.
+
+- **Stage Two:** With openings made by Stage One, launch an attack on Genoa and the Italia Airfield, doing as much damage to their warmaking potential as possible. This obviously goes easier if Stage One is well coordinated, and if Stage Two happens fast enough, we should be able to do critical damage before they can prepare their defenses in depth. They'll be on alert, true, but as we've yet to employ comm jamming in the past, they'll expect to get at least some early warning, so they won't have their full forces mobilized. This gives us a chance to repeat our success in our previous ambush. Even if we fail to destroy their warmaking potential outright, we can soften them up.
+
+- **Stage Three:** While the enemy's warmaking potential is being attacked during Stage Two, have our Units secure a landing position and have our transports land our troops. At this point, the ground battle is more-or-less a matter of time.
+
+- **Stage Four:** Build Torpedo Launchers to secure the coas: `200` RU
+
+---
+**Alpine Defense Station 7**  
+"Sir, were we expecting a patrol to return soon?"  
+"No, we weren't, why?" The Venezian commander asked.  
+"Well, we've got several witches inbound, from what we can tell."  
+A pause. "Let me see."  
+The man paled. "Sound the alarm! We've got Neuroi inbound!"  
+"But sir, those are Wit-"  
+"Didn't you hear the reports from Karlsland!? Now man those Machine Guns!"  
+
+Across the Alps machine guns are frantically manned and trained on the Neuroi. Volleys of fire leap out, smashing through several, but it's too little, too late.  
+Lasers erupt from emitters, skewering the unprepared AA gunners. Several of the large guns are destroyed in quick succession.  
+Frantic distress calls go unanswered as Neuroi jamming leaves the rest of Romagna and Venezia unaware that the Neuroi are travelling through the Alps. A massive fleet of Large and Medium Types quickly move in. What few guns remain train on their targets and open fire, inflicting some damage, but not enough.  
+**Losses:** `4` Small Type Flyer Groups, `1` Large Type Flyer Group
+
+---
+"Admiral, is something wrong?"  
+Romagnan Admiral Carlo Bergamini nodded grimly. "Tell the fleet to ready themselves for combat and to move out of the harbour."  
+"Sir?"  
+Bergamini shook his head. "We've just lost all contact with several Alpine Defense Stations. No distress, no weapons fire, just static."  
+"Sir, that could mean anything. Maybe they're just having equipment problems."  
+"Maybe, but I doubt it. Call it a hunch, and make sure all guns are loaded and pointed at the sky."  
+
+When the Neuroi appear over Genoa, they find themselves staring face-first into the barrels of the alert, mobile, and fully operational Romagnan Navy.  
+"What did I tell you? OPEN FIRE!"  
+It's like a shooting gallery. Your Large Types are especially hit hard, with their massive bulks pounded again and again by Anti-Neuroi and Armour Piercing rounds. Hundreds of Neuroi are wiped out by AA fire, and even though you do severe damage to Genoa's Infrastructure, the Romagnan Fleet has escaped more or less intact.  
+**Neuroi Losses:** `7` Small Type Flyer Groups, `7` Medium Type Flyer Groups, `9` Large Type Flyer Groups, `1` Neuroi Witch Group
+**Human Losses:** `City of Genoa` Destroyed, `Heavy` Civilian Casualties `3` Cruisers, `5` Destroyers
+
+---
+While the news from Genoa are bad, the attack on the Italia Airfield goes almost perfectly. Unlike Genoa, they saw nothing suspicious about the Blackout, and were caught almost totally unprepared. While alert AA gunners and fighter patrols have inflicted some casualties, for the most part the entirety of Venezia's Air Force on the Italian Peninsula has been destroyed.  
+**Neuroi Losses:** `7` Small Type Flyer Groups, `2` Medium Type Flyer Groups  
+**Human Losses:** Over `800` Fighters, `6` Witches, `Italia Airfield` Destroyed
+
+---
+Your ground forces' landing is a bit more painful than you would have liked. Several cleverly hidden gun emplacements managed to survive the sweep from you air units, and destroy several Transports before being rooted out and destroyed. Finally though, you have a foothold on the other side of the Alps.  
+**Losses:** `12` Infantry Bot Divisions, `5` Anti-Vehicle Bot Divisions, `12` Neuroi Walker Groups, `3` Ultra-Heavy Walker Groups
+
+---
+From there your forces make rapid headway across the Peninsula, sweeping aside the scattered resistance. Torpedo launchers scatter the coastlines nearby your forces, meaning your currently conquered territory is safe from naval bombardment, for now. Unfortunately, you still have a long ways to go before you've fully conquered Romagna, and your forces have already been heavily depleted.  
+![​Romagnia invasion state](../images/romagnia_invasion1.gif)
+
+The Red Line indicates the extent of your advance.
+
+Venice is the capital of Venezia, and while you are advancing on it, from what you can see it is well defended, and ready to hold the line against your forces. Taking Venice could demoralize your opponents, but you would have to divert extra forces to ensure its fall, slowing down your advance significantly.  
+At the same time, a rapid Blitzkrieg across Romagna could devastate the humans before they could rally a proper response to your attack, if you move quickly enough, but it would mean leaving strongpoints like Venezia behind your lines.
+
+---
+###Orders?
+- Divert forces to Venezia
+- Ignore points like Venezia, have your forces rolls across the Peninsula as far as they can manage
+- Write in?: There are always other things you can do.
