@@ -95,3 +95,38 @@ At the same time, a rapid Blitzkrieg across Romagna could devastate the humans b
 - Divert forces to Venezia
 - Ignore points like Venezia, have your forces rolls across the Peninsula as far as they can manage
 - Write in?: There are always other things you can do.
+
+---
+- Bypass Venice. Set up fortifications to prevent a breakout, and take advantage of the panic your assault has caused to sweep the rest of Venezia and Romagnia of enemies.
+-  Avoid civilian Casualties. Humanity has shown that in its insanity, incredible feats can be performed. By not creating situations where humanity's insanity will ignite, we deny them there insane powers. Neuroi units will avoid civilian casualties where possible, and focus efforts exclusively on human military forces.
+- Sweep down to the very coast lines at the end of Italy. Attempt to then link up with Suez via air units. 
+
+---
+
+It is April 30th, 1945.  
+For the past week, the Neuroi have forced their way across Romagna. Florence fell in hours, it's defenders unprepared for the horrific onslaught. Millions of refugees clog the roads further south.  
+Grosseto stood a better chance. It held out for a day.  
+
+As the Neuroi pushed south, the Romagnans fought with greater and greater ferocity. For all the good it did them. Rome found itself occupied by a ragtag force. Scattered military formations and armed civilians alike went shoulder to shoulder in the face of death itself, promising to take at least one Neuroi with them. For a week straight they battled against the Neuroi. Every street was paid for in blood, every man, woman, and child was a soldier, and by the end of that week, not one of them was alive.  
+Rome has fallen. The Vatican is in ruins. Its monuments to the old Roman Empire, gone, its people dead, my people dead.
+
+Desperate, knowing that the Neuroi were counterattacking on every front, the surviving people of Romagna desperately called for aid.
+
+To everyone's astonishment, they got it.
+
+Hispania, locked in Civil War, united to send what it could. The Tsar, who had ignored Europe, rallied his western armies to be sent into battle. Dacia, Moesia, Ostmark, the Ottoman Empire, all sent what they could. A massive fleet escorted ships across the Mediterranean.  
+Venice, capital of Venezia, had somehow held out against the horde. Now, it became home to a massive staging ground. Dozens of Witches, some experienced, many more volunteers or conscripts rallied there, supported by reinforcements from across the Mediterranean made the city their home. A city that now resembles a fortress.
+
+Further south, across ports still under human control, over a million soldiers have already disembarked, and even more come every day. Every able-bodied citizen of Romagna, regardless of gender, has armed his or herself for battle. More weapons continue to come from Karlsland, escorted by massive fleets, shrugging off losses from new Neuroi Submarines to bring us what we need.  
+New tanks, jets and jet Strikers, the legendary 501st JFW, advanced weapons that no human has ever seen before.
+
+Yes, the Neuroi have overwhelmed most of our beloved country, but it has cost them. Brave millions before us have given their lives to devastate the invaders, and now they totter at the edge of annihilation.  
+Now we will pay them back for every life they have taken. Our fleet is intact and armed, our armies are ready for battle.  
+We are the people of Romagna, and we will not relent until our gun barrels melt and the last breath leaves our bodies.  
+We are the people, the soldiers of Romagna, and we are at war.
+
+![​Romagnia invasion state](../images/romagnia_invasion2.gif)  
+Red Line indicates the *new* extent of your advance. You were originally supposed to be stopped at Rome at furthest.
+
+**Losses:** `64` Infantry Bot Divisions, `32` Anti-Vehicle Bot Divisions, `10` Neuroi Walker Groups, `18` Small Type Flyer Groups, `8` Medium Type Flyer Groups, `14` Large Type Flyer Groups, `7` Ultra-Heavy Walker Groups, `2` Neuroi Witch Squadrons  
+**Gained:** `9690` RU, + 1,500` RU per turn
