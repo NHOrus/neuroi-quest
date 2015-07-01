@@ -21,7 +21,7 @@ There are multiple areas of importance where you will face the most resistance, 
 
 **Italia Airfield:** The bulk of Romagna and Venezia's fighter squadrons in the north are based here. Protected by a fortress of AA guns and covered with hangers for hundreds of fighters, and even a few Witches.
 
-###Alpine Defense Perimeter:  
+**Alpine Defense Perimeter:**  
 ![Alpine Defence Perimeter](../images/adp.jpg)  
 If there's anything that'll stop you, it'll be this.  
 A massive net of AA guns of all calibres, built in a dozen key locations across the mountains. Unless you destroy these, your transports will be blown to pieces.
