@@ -35,13 +35,13 @@ Aside from this, there are several lesser military bases near the Alps. Once cle
 ##Invasion of Romagna, Part 1
 
 ###Plan Javelin
-- **Stage One:** Deploy N Witches and Small type flyers as Strike Teams and approach at high speed and low altitude under the cover of darkness, ideally getting below their radar screen and moving in small enough numbers that it shouldn't cause an immediate panic--at the moment, they shouldn't have proper doctrine to counter Witch-types on our end. Focus on targeting regions to get us access corridors to Genoa and the Italia Airfield. Use Strike Teams to cripple AA defenses in these areas, and allow a swift follow up attack from the rest of our Air Force. Make use of radio jamming and communications blackouts during this window to delay enemy response and coordination.
+- **Stage One:** Deploy N Witches and Small type flyers as Strike Teams and approach at high speed and low altitude under the cover of darkness, ideally getting below their radar screen and moving in small enough numbers that it shouldn't cause an immediate panic -- at the moment, they shouldn't have proper doctrine to counter Witch-types on our end. Focus on targeting regions to get us access corridors to Genoa and the Italia Airfield. Use Strike Teams to cripple AA defenses in these areas, and allow a swift follow up attack from the rest of our Air Force. Make use of radio jamming and communications blackouts during this window to delay enemy response and coordination.
 
 - **Stage Two:** With openings made by Stage One, launch an attack on Genoa and the Italia Airfield, doing as much damage to their warmaking potential as possible. This obviously goes easier if Stage One is well coordinated, and if Stage Two happens fast enough, we should be able to do critical damage before they can prepare their defenses in depth. They'll be on alert, true, but as we've yet to employ comm jamming in the past, they'll expect to get at least some early warning, so they won't have their full forces mobilized. This gives us a chance to repeat our success in our previous ambush. Even if we fail to destroy their warmaking potential outright, we can soften them up.
 
 - **Stage Three:** While the enemy's warmaking potential is being attacked during Stage Two, have our Units secure a landing position and have our transports land our troops. At this point, the ground battle is more-or-less a matter of time.
 
-- **Stage Four:** Build Torpedo Launchers to secure the coas: `200` RU
+- **Stage Four:** Build Torpedo Launchers to secure the coats: `200` RU
 
 ---
 **Alpine Defense Station 7**  
@@ -69,7 +69,7 @@ Bergamini shook his head. "We've just lost all contact with several Alpine Defen
 When the Neuroi appear over Genoa, they find themselves staring face-first into the barrels of the alert, mobile, and fully operational Romagnan Navy.  
 "What did I tell you? OPEN FIRE!"  
 It's like a shooting gallery. Your Large Types are especially hit hard, with their massive bulks pounded again and again by Anti-Neuroi and Armour Piercing rounds. Hundreds of Neuroi are wiped out by AA fire, and even though you do severe damage to Genoa's Infrastructure, the Romagnan Fleet has escaped more or less intact.  
-**Neuroi Losses:** `7` Small Type Flyer Groups, `7` Medium Type Flyer Groups, `9` Large Type Flyer Groups, `1` Neuroi Witch Group
+**Neuroi Losses:** `7` Small Type Flyer Groups, `7` Medium Type Flyer Groups, `9` Large Type Flyer Groups, `1` Neuroi Witch Group  
 **Human Losses:** `City of Genoa` Destroyed, `Heavy` Civilian Casualties `3` Cruisers, `5` Destroyers
 
 ---
