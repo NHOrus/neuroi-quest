@@ -32,3 +32,7 @@ Good luck.
 - **Atlantic Hive**: There is no Atlantic Hive. It definitely hasn't been underwater since this war began, waiting and building in case it was needed. It is absolutely not the home of the Neuroi that have been modified to fight underwater.  
   - *Pros*: What Do You MEAN They Have A Navy!?: This Hive is home to the Neuroi Underwater Fleet. Seeing as the Allies have no idea the Neuroi even have a presence underwater, this Hive is likely to catch them by surprise. It's also very well hidden, being underwater.  
   - *Cons*: A Navy isn't cheap: Navies cost a lot, and this one is no exception. You also won't get as much in the way of resources, since Ambient Energy usually doesn't gather underwater. If you want to expand your forces quickly, you'll need to do some raiding.
+
+---
+
+[Source Thread](https://forums.spacebattles.com/threads/neuroi-quest-a-strike-witches-quest.291651/), for context.
