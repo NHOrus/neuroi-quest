@@ -1,8 +1,8 @@
 #Neuroi Quest Thread 2: Go Big or Go Extinct
 [Source Thread](https://forums.spacebattles.com/threads/neuroi-quest-thread-2-go-big-or-go-extinct.293655/)
 
-![Quest logo](./images/logo.png)  
-![Alternative logo](./images/logo_bis.png)  
+![Quest logo](../images/logo.png)  
+![Alternative logo](../images/logo_bis.png)  
 
 ##Status
 
@@ -22,7 +22,7 @@
 - `5` Multi-Laser Artillery Groups (Costs `75` Ru per group) (Excellent v.s. Fortifications, Very Strong v.s. Most units at long range, Weak v.s. anything that can get close) (8 Per Group)
 
 ####Map of area
-![Map of Europe](./images/t05_euro_map.jpg)
+![Map of Europe](../images/t05_euro_map.jpg)
 
 ####Holdings:
 `Direct Control` of Karlsland and Helvetica(RL Switzerland), Italian Peninsula and Sicily  
