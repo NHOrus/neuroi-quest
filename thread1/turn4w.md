@@ -103,7 +103,7 @@ At the same time, a rapid Blitzkrieg across Romagna could devastate the humans b
 
 ---
 
-It is April 30th, 1945.  
+It is April 30th, 1946.  
 For the past week, the Neuroi have forced their way across Romagna. Florence fell in hours, it's defenders unprepared for the horrific onslaught. Millions of refugees clog the roads further south.  
 Grosseto stood a better chance. It held out for a day.  
 
