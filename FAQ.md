@@ -15,3 +15,7 @@ It's reliable, since it's not sentient and lacks a Soul, but not exactly all pow
 **A:** Not very common, but it does happen occasionally.  
 With the history between `206` and `302`, most people are just surprised it didn't happen sooner.
 
+**Q:** How do we ship Ambient Energy to our superiors&
+**A:** You get your Quota filled via beaming it back home. Works on AE just fine, but your transporters don't have the power to do it to anything physical.  
+They tend to explode when you try.
+ 

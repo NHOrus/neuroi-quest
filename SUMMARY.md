@@ -18,6 +18,8 @@
 	* [Turn 4](thread1/turn4.md)
 	* [Turn 4 results](thread1/turn4r.md)
 	* [Turn 4 combat](thread1/turn4w.md)
+*[Go Big or Go Extinct](thread2/README.md)
+	* [Turn5](thread2/turn5.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
