@@ -27,10 +27,10 @@ On the bright side, you got a message from home.
 - `3` Neuroi Witch Mark 1 Groups (Strong vs Witches, bombers, light vehicles and infantry. Strong vs Fighters. Weak vs AA.) (Cost: `300` RU per group) (5-8 Witches per Group)
 
 ####Allies:
-- `1` Suez` Land Battleship
-- `2` Suez` Ultra-Heavy Groups
-- `7` Suez` Walker Groups
-- `7` Suez` Infantry Bot Divisions
+- `1` `Suez` Land Battleship
+- `2` `Suez` Ultra-Heavy Groups
+- `7` `Suez` Walker Groups
+- `7` `Suez` Infantry Bot Divisions
 - `10` `Suez` Anti Vehicle Bot Divisions
 
 
