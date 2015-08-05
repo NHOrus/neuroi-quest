@@ -32,6 +32,7 @@ At that, you couldn't help but gasp, with the sound echoing for some reason, as 
 
 ​
 At **That,** you couldn't help but gape as the red haired Witch's pants shined before she was covered in a white body suit with a scarf appearing around her neck to complete the ensemble. Before she lifted off the ground and began hovering in mid air. And it looked Amazing. You wonder where the propulsion was, but then you noticed little protrusions near the legs. Were those...!​
+
 ​
 **Anything is possible if you can wear pants and follow the Neuroi.​
 I'm on a Landship.​**
@@ -40,5 +41,6 @@ I'm on a Landship.​**
 And with that, the TV switched back to the program she was watching. Seeming as if no time had passed at all.​  
 Blinking, from the ~~worthwhile~~ strange commercial with the ~~amazing~~ useless product placement you noticed a number of witches were surrounding you.​  
 As all the witches were trying to figure out what to do, one voice broke the silence.​
+
 ​
 "*I've got to get me some of those.*"​
