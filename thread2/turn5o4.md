@@ -5,10 +5,10 @@
 ####After action report: `July 19th 1946`
 
 At `0521` hours the` 501st Joint Fighter Wing`, and and the attached forces came under attack by a combined arms force of Neuroi units. Ten Neuroi Sorceresses[^1] and accompanying Small type Flyers secured the Striker hanger while four Hwacha Class Neuroi on submersible transports destroyed all AA defenses, armories and communication facilities.  
-[^1]While the humanoid units deployed from the Berlin and now other Hives do have similar abilities to Witches referring to the former as the later was not well received by the members of the Joint Fighter Wings (Name those things something different, they aren’t us, all they are is sick copies! – *Maj. Sakamoto*)
+[1]While the humanoid units deployed from the Berlin and now other Hives do have similar abilities to Witches referring to the former as the later was not well received by the members of the Joint Fighter Wings (Name those things something different, they aren’t us, all they are is sick copies! – *Maj. Sakamoto*)
 
 At this point, as Commander Wilcke, Major Sakamoto and Lieutenants Yeager and Barkhorn were preparing to fight their way to the Strikers, the Flyers deposited a large container beside the Sorceresses, one of which opened a dialog with the Witches present.[^2]  
-[^2]No, none of my girls was drinking and neither was I. Though I’m going start to as soon as this insane FUBAR gets settled. *Cdr. Wilcke*
+[2]No, none of my girls was drinking and neither was I. Though I’m going start to as soon as this insane FUBAR gets settled. *Cdr. Wilcke*
 
 **Transcript of Dialog Follows:**
 
@@ -21,7 +21,7 @@ At this point, as Commander Wilcke, Major Sakamoto and Lieutenants Yeager and Ba
 
 *Neuroi Sorceress:* Returning non combat worthy individuals that can no longer provide research information and have become resource and attention sinks.  
 (At this point the container stared dissolving and three of the Sorceresses carry out individuals recognizable as witches Rall, Krupinski, Pokryshkin and several others from the Berlin assault force[^3]. All individuals while not emaciated do not appear in particularly good health with haggard features and long unkempt hair. The witches are placed at a midpoint between the two groups where Sakamoto, Yeager and Barkhorn move to give aid.)
-[^3]See Appendix 001 for complete recovery list.
+[3]See Appendix 001 for complete recovery list.
 
 *Lt. Yeager:* What the ****** hell have you done to our sisters?
 
