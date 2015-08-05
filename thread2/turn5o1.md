@@ -1,5 +1,7 @@
 #Neuroi pants
 
+###By Avalon
+
 ~Schrkk~ ~Crackle Crackle~
 
 Blinking in confusion at the unexpected interference to her favorite TV show, Sergeant Alicia Alcott furrowed her brow as she got up to try and see what was wrong. There was no way it could be broken already could it? They just got the damn thing.
