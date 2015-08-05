@@ -18,7 +18,7 @@ Once again, an army emerges from production facilities across Karlsland. Hopeful
 
 - **4 AIs walk into a conference room...:** Since the Super-Hive fell, and quite a bit before that, it's been every Hive for itself. With only four left, you really can't afford that anymore.  
 Everyone's heard about the `206`/`302` war, and none of your comrades are particularly eager to die. Unfortunately, they're a bit busy at the moment with their own projects, and won't be available until next month. Still, at least you'll be there next month.  
-**Reward:** Neuroi Conference next turn
+**Reward:** `Neuroi Conference` next turn
 
 - **Counterattack:** With the humans in retreat, you have the opportunity to go on the offensive again. With your industry badly damaged, you might need it.  
 See **`Special Action`** Below
