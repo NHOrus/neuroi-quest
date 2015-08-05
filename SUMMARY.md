@@ -26,6 +26,8 @@
 	* [Captured](thread2/turn5o2.md)
 	* [The Coming Tide](thread2/turn5o3.md)
 	* [Troubled Tidings](thread2/turn5o4.md)
+	* [Captivity, part 1](thread2/turn5o5.md)
+	* [Captivity, part 2](thread2/turn5o6.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)

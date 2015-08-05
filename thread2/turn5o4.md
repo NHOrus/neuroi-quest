@@ -38,6 +38,6 @@ At this point the Neuroi units present fired into the Striker hanger presumably 
 Commander Minna-Dietlinde Wilcke, 501st Joint Fighter Wing 
 
 ---
-[^1]While the humanoid units deployed from the Berlin and now other Hives do have similar abilities to Witches referring to the former as the later was not well received by the members of the Joint Fighter Wings (Name those things something different, they aren’t us, all they are is sick copies! – *Maj. Sakamoto*)
-[^2]No, none of my girls was drinking and neither was I. Though I’m going start to as soon as this insane FUBAR gets settled. *Cdr. Wilcke*  
-[^3]See Appendix 001 for complete recovery list.
+[^1]While the humanoid units deployed from the Berlin and now other Hives do have similar abilities to Witches referring to the former as the later was not well received by the members of the Joint Fighter Wings (Name those things something different, they aren’t us, all they are is sick copies! – *Maj. Sakamoto*)   
+[^2]No, none of my girls was drinking and neither was I. Though I’m going start to as soon as this insane FUBAR gets settled. *Cdr. Wilcke*   
+[^3]See Appendix 001 for complete recovery list.   

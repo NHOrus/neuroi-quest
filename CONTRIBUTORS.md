@@ -8,3 +8,4 @@
 - [Avalon](http://forums.sufficientvelocity.com/members/avalon.327/)
 - [WarShipper](https://forums.sufficientvelocity.com/members/warshipper.3740/)
 - [jwolfe](https://forums.sufficientvelocity.com/members/jwolfe_beta.2935/)
+- [Kerfitd](https://forums.sufficientvelocity.com/members/kerfitd.691/)
