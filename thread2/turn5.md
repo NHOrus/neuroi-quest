@@ -70,6 +70,6 @@ On the bright side, you got a message from home.
 - *To go boldly where pretty much every other Neuroi has gone before!:* Viable space craft just moved waaaay up on your priority list.
 - *Maus Trap:* Figure out what you can about these Super-Heavy Tanks, they nearly cost you the battle of Berlin.
 - *Espionage Action Get!:* You need to dedicate more to espionage.
-- *All Hail The Dice Gods!:* While they are captive, you have seen several humans praying to various deities for aid in some circumstances. You wonder, perhaps some study on this could help you gain this "Divine Favour"?
+- *All Hail The Dice Gods!:* While they are captive, you have seen several humans praying to various deities for aid in some circumstances. You wonder, perhaps some study on this could help you gain this "`Divine Favour`"?
 - *Male Bullshit! magic meets girl bullshit! magic:* It's time to crack the mystery of male and female AE users. FOR SCIENCE!
 - *Write In:* ???
