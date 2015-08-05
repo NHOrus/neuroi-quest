@@ -14,14 +14,14 @@ At this point, as Commander Wilcke, Major Sakamoto and Lieutenants Yeager and Ba
 ---
 *Neuroi Sorceress:* Cease your advance. No further conflict will occur at this present time unless you begin it.
 
-*Lt. Barkhorn* : Wha-Why the **** should we believe a word you say say, you murdering freaks!
+*Lt. Barkhorn* : Wha-Why the \*\*\*\* should we believe a word you say say, you murdering freaks!
 
 *Cdr. Wilcke:* Stand down Lieutenant. (to Neuroi units) If you aren’t here to kill us why are you here?
 
 *Neuroi Sorceress:* Returning non combat worthy individuals that can no longer provide research information and have become resource and attention sinks.  
 (At this point the container stared dissolving and three of the Sorceresses carry out individuals recognizable as witches Rall, Krupinski, Pokryshkin and several others from the Berlin assault force[^3]. All individuals while not emaciated do not appear in particularly good health with haggard features and long unkempt hair. The witches are placed at a midpoint between the two groups where Sakamoto, Yeager and Barkhorn move to give aid.)
 
-*Lt. Yeager:* What the ****** hell have you done to our sisters?
+*Lt. Yeager:* What the \*\*\*\*\*\* hell have you done to our sisters?
 
 *Neuroi Sorceress:* Final command from Director at main complex to Civilian Junior/Research Hive SBDK-2101 or as you call me, Berlin: Determine the process by which subject Yoshika Miyafuji regained her ability to generate and manipulate ambient energy after seemingly permanent burnout. While I was capable of replicating the burnout aspect of the event, none managed to regain their abilities.
 
@@ -32,9 +32,10 @@ At this point, as Commander Wilcke, Major Sakamoto and Lieutenants Yeager and Ba
 ---
 **Transcript end**
 
-At this point the Neuroi units present fired into the Striker hanger presumably to prevent quick pursuit and departed with no further attacks. All recovered witches were, as stated by the Neuroi , incapable of using magic but should otherwise make full physical recoveries given time and therapy. Of the captives Lt. XXXXXXX apparently spoke to the Neuroi prior to release regarding the events mentioned by the Sorceress before departure. (See Appendix 022 for conversation)
+At this point the Neuroi units present fired into the Striker hanger presumably to prevent quick pursuit and departed with no further attacks. All recovered witches were, as stated by the Neuroi , incapable of using magic but should otherwise make full physical recoveries given time and therapy. Of the captives Lt. ███████ apparently spoke to the Neuroi prior to release regarding the events mentioned by the Sorceress before departure. (See Appendix 022 for conversation)
 
 **Report Ends**
+
 Commander Minna-Dietlinde Wilcke, 501st Joint Fighter Wing 
 
 ---
