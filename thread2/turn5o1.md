@@ -33,7 +33,7 @@ At **That,** you couldn't help but gape as the red haired Witch's pants shined b
 ​
 **Anything is possible if you can wear pants and follow the Neuroi.​
 I'm on a Landship.​**
-
+		
 ​
 And with that, the TV switched back to the program she was watching. Seeming as if no time had passed at all.​  
 Blinking, from the ~~worthwhile~~ strange commercial with the ~~amazing~~ useless product placement you noticed a number of witches were surrounding you.​  
