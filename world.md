@@ -25,3 +25,14 @@ The war has wiped out trillions of lives of both sides. More and more resources 
 Sooner or later, I'd the war doesn't end, the only left of the Neuroi and Fahrong will be endless hordes of war machines and generals, endlessly fighting for civilizations that have already fallen.
 
 ---
+our Cluster is a bit busy. 302 outnumbers 206 by a decent bit, so no reinforcements for a while at least.
+And, well, they know you're in command, so things must have gone wrong somewhere.
+
+Planetary shields might be possible, would be pretty expensive though, that's high level PMC tech at its cheapest.
+
+
+Neuroi Empire's population numbers at least in the low tens of quadrillions.
+
+302 and 206 have been rivals due to conflicting interests, resource scarcity, and, in one case, an important figure in 302 accidentally getting killed by a 206 PMC training exercise. 
+
+---
