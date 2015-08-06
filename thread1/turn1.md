@@ -7,7 +7,7 @@ And of course, the lazy Atlantics are, for the moment, doing absolutely nothing!
 But for now, you have your objectives: gather `Ambient Energy` from this life-filled world, capture and study the human known as Yoshika Miyafuji, and possibly her squadron, and destroy the human race.  
 The stubborn, warlike, determined, unyielding, and brave human race.
 
-####Resources (RU): `10,000`
+###Resources (RU): `10,000`
 ####Income: `1,000` per turn
 ####Units:
 0. `50` Infantry Bot Divisions (Very Strong vs infantry, weak vs anything else, good at garrison and urban warfare) (Costs `10` RU)

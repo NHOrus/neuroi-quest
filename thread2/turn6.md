@@ -40,7 +40,8 @@ Italian Peninsula: Medium
 
 
 ###Production Action:
-######(Limited to 6,000 RU per slot) (May reinforce defences in regions, classified: Nonexistant ,Light, Medium Heavy ,Impregnable; Costs 1,000 RU to raise a level in a region)  
+######(Limited to 6,000 RU per slot)
+######(May reinforce defences in regions, classified: Nonexistant, Light, Medium, Heavy, Impregnable; Costs 1,000 RU to raise a level in a region)  
 - []
 
 ###Actions:

@@ -23,7 +23,8 @@ Nope, not panicking at all.
 0. `7` Suez Infantry Bot Divisions
 0. `10` Suez Anti Vehicle Bot Divisions
 
-###Production Action: (Limited to `6,000` RU per slot)
+###Production Action:
+######(Limited to `6,000` RU per slot)
 - []
 
 ###Actions:
