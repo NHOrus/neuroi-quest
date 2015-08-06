@@ -23,7 +23,7 @@ At this point, as Commander Wilcke, Major Sakamoto and Lieutenants Yeager and Ba
 
 *Lt. Yeager:* What the \*\*\*\*\*\* hell have you done to our sisters?
 
-*Neuroi Sorceress:* Final command from Director at main complex to Civilian Junior/Research Hive SBDK-2101 or as you call me, Berlin: Determine the process by which subject Yoshika Miyafuji regained her ability to generate and manipulate ambient energy after seemingly permanent burnout. While I was capable of replicating the burnout aspect of the event, none managed to regain their abilities.
+*Neuroi Sorceress:* Final command from Director at main complex to `Civilian Junior/Research Hive SBDK-2101` or as you call me, Berlin: Determine the process by which subject Yoshika Miyafuji regained her ability to generate and manipulate ambient energy after seemingly permanent burnout. While I was capable of replicating the burnout aspect of the event, none managed to regain their abilities.
 
 *Maj. Sakamoto:* Then why would you give them back, Berlin is it?
 
@@ -32,7 +32,7 @@ At this point, as Commander Wilcke, Major Sakamoto and Lieutenants Yeager and Ba
 ---
 **Transcript end**
 
-At this point the Neuroi units present fired into the Striker hanger presumably to prevent quick pursuit and departed with no further attacks. All recovered witches were, as stated by the Neuroi , incapable of using magic but should otherwise make full physical recoveries given time and therapy. Of the captives Lt. ███████ apparently spoke to the Neuroi prior to release regarding the events mentioned by the Sorceress before departure. (See Appendix 022 for conversation)
+At this point the Neuroi units present fired into the Striker hanger presumably to prevent quick pursuit and departed with no further attacks. All recovered witches were, as stated by the Neuroi , incapable of using magic but should otherwise make full physical recoveries given time and therapy. Of the captives Lt. ███████ apparently spoke to the Neuroi prior to release regarding the events mentioned by the Sorceress before departure. (See `Appendix 022` for conversation)
 
 **Report Ends**
 
@@ -41,4 +41,4 @@ Commander Minna-Dietlinde Wilcke, 501st Joint Fighter Wing
 ---
 [^1]While the humanoid units deployed from the Berlin and now other Hives do have similar abilities to Witches referring to the former as the later was not well received by the members of the Joint Fighter Wings (Name those things something different, they aren’t us, all they are is sick copies! – *Maj. Sakamoto*)   
 [^2]No, none of my girls was drinking and neither was I. Though I’m going start to as soon as this insane FUBAR gets settled. *Cdr. Wilcke*   
-[^3]See Appendix 001 for complete recovery list.   
+[^3]See `Appendix 001` for complete recovery list.   
