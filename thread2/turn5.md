@@ -13,7 +13,7 @@ On the bright side, you got a message from home.
 >P.S.: Tell `Suez` this makes us even for `Vasaii`.
 
 ---
-####Resources (RU): `12,920` RUs
+###Resources (RU): `12,920` RUs
 ####Income: ~~`2,500` per turn~~ reduced to `1720` per turn until Turn 7
 
 ####Units:
@@ -34,7 +34,8 @@ On the bright side, you got a message from home.
 - `10` `Suez` Anti Vehicle Bot Divisions
 
 
-###Production Action: (Limited to 6,000 RU per slot)
+###Production Action:
+######(Limited to 6,000 RU per slot)
 - []
 
 ###Actions:
