@@ -19,3 +19,6 @@ With the history between `206` and `302`, most people are just surprised it didn
 **A:** You get your Quota filled via beaming it back home. Works on AE just fine, but your transporters don't have the power to do it to anything physical.  
 They tend to explode when you try.
  
+**Q:** Can we drop neurotoxin or other biological/chemical weapon on Humans or hostile Neuroi?
+**A:** *Under Protocol `H-4972-C,` usage of biological Weapons of Mass Destruction is prohibited without express permission from the Home world. Citizen, for this violation, report to the nearest re-education center.*  
+More seriously,Neuroi don't have that many bioweapons, and they're under very strict watch by the higher-ups. 
