@@ -1,4 +1,4 @@
-#Turn 6 Results
+#Turn 6, June 1946, Results
 
 ### Build Order (`1150` RU):
 - `10` Multi-Laser Artillery Groups (Costs 75 Ru per group) - `750` RU
