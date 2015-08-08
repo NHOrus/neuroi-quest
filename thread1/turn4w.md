@@ -1,4 +1,4 @@
-# Turn 1, January 1946: War
+# Turn 4, April 1946: War
 
 ###Venezia and Romagna
 - **Pros:** Would help you link up with the Suez Hive
