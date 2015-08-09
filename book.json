@@ -3,4 +3,7 @@
 	"title": "Neuroi Quest",
 	"description": "",
 	"language": "en"
+	"styles":{
+		"website": "styles/justify.css"
+	}
 }
