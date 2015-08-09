@@ -10,3 +10,4 @@
 - [jwolfe](https://forums.sufficientvelocity.com/members/jwolfe_beta.2935/)
 - [Kerfitd](https://forums.sufficientvelocity.com/members/kerfitd.691/)
 - [SoaringHawk218](https://forums.spacebattles.com/members/soaringhawk218.305501/) - consent not given
+- [Trent01](https://forums.sufficientvelocity.com/members/trent01.635/)
