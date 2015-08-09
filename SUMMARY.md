@@ -38,6 +38,7 @@
 	* [Lest Darkness Fall](thread2/turn6o4.md)
 	* [Afrika's Dusk](thread2/turn6o5.md)
 	* [Scientific Method](thread2/turn6o6.md)
+* [Panted And Dangerous!](thread3/README.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
