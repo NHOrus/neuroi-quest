@@ -1,6 +1,6 @@
 #Turn 6, June 1946: War
 
-###Romagna's Last Stand: Part 1
+###Romagna's Last Stand
 
 Most of the Allied reinforcements are wreckage in the harbour after your initial attack, but a few ships managed to land and deploy their cargoes of tanks, airplanes, and some other devices your spy units weren't able to get a good look at. Whatever they were, the Allies still have a significant presence of entrenched, armed, and very pissed off soldiers and militia.  
 ![​Romagnia invasion state](../images/romagnia_invasion2.gif)  
@@ -105,3 +105,40 @@ What the-
 Well... that certainly evens the odds. The humans at Brindisi are now cut off, and the southernmost tip of Romagna is still under human control.But things are starting to look up.  
 
 *How do you want to finish off Romagna?*
+
+---
+
+Romagna's Last Stand: Part 3
+[x]Broadcast over every radio channel (if we can get the witches magic radios all the better) and offer terms of surrender. If they refuse, blow the remaining planes out of the sky and repeat the terms for surrender.
+"Humans of Romagna, this is the Karlsland Neuroi Hive. Your armies have been destroyed, your fleets removed and your allies scattered to the wind. Surrender and you will live. I have no desire to commit pointless slaughter but I can and will should you force my hand."
+-[x] All soldiers and witches are to stand down immediately.
+-[x] Enemy soldiers are given parole. They hand over their weapons and agree not to rejoin the fight and we will allow them to join the civilians in Neuroi controlled Romagnan towns/cities.
+-[x] Witches are be taken into custody as PoWs*. Show proof that Sarah Lebs, Cecilia Harris, Matsuda Shouko, Delia Jeram, and Ottilie Kittel all live as indications that we are not simply going to kill them off.
+--[x] Should at any point human forces retaliate after surrendering we will consider the agreement broken and recommence the attack.
+
+After the humans get over their initial astonishment of Neuroi communicating in methods other than that of lasers, they take stock of the situation.
+Them: Having rag-tag militia forces, no naval support, no way to retreat, and just seeing the last of their actual military get bombed in spectacular fashion.
+Against them: A still very intact Neuroi army that will enjoy total air supremacy.
+
+The last remaining humans drop their weapons and surrender in droves. Corsica, Sardinia, and Sicily, lacking any real resistance also give up happily. While a few holdouts take a bit of clearing out and losses, it's nothing major.
+Neuroi Losses: 2 Infanry Bot Divisions
+Human Losses: 6 Million Humans surrendered/captured
+
+
+"Yoshika?"
+"Uh... Lynne?" Yoshika Miyafuji winced as she tended to one of the wounded Witch cadets. The 501st had been run ragged trying to counter the movements of the Neuroi, and everyone was exhausted. Things had gotten worse when the Neuroi advance had split the JFW in two.
+"You heard that? What do you think we should do?" The Britannian girl checked her rifle. Five rounds left, no extra clips.
+Erica Hartmann winced and took a look at her broken MG42. "What can we do?"
+Nothing. And they all knew it.
+
+Results: Neuroi Victory
+-Romagnan and Ottoman fleets prepare to break out from the Mediterranean
+-2810 RU Salvaged
+-Libya and Sinai Peninsula under Suez Hive Control
+-Corsica and Sardinia under Atlantic Hive Control
+-Romagna and Sicily under Berlin Hive Control
+- Human protectorate size increased to 21 Million. +50 RU income
+- +550 RU income from territorial gains
+-Yoshika Miyafuji, Lynette Bishop, Erica Hartmann, Gertrude Barkhorn, and Charlotte Yeager captured
+- -50 RU for cleaning up nuclear fallout
+-Allied Meditteranean Witches Corps annihilated
