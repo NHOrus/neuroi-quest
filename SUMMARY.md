@@ -31,6 +31,7 @@
 	* [Turn 6](thread2/turn6.md)
 	* [Turn 6 results](thread2/turn6r.md)
 	* [Turn 6 combat: Romagna's Last Stand](thread2/turn6w.md)
+	* [Turn 6 news](thread2/turn6n.md)
 	* [Delusion](thread2/turn6o1.md)
 	* [Happier times](thread2/turn6o2.md)
 	* [Neuroi Pants Pt. 2](thread2/turn6o3.md)
