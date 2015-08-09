@@ -1,6 +1,7 @@
 #Captured
 
 ### By WarShipper
+###Status:Non-Canon
 
 I am not sure when I was taken. Perhaps days. Perhaps months. Perhaps longer, though I doubt it for my body remains... mostly the same. I have suffered some, I admit. The lack of consistent sunlight has turned my skin pale, and the food has left me lean and with a constant sort of half-hunger. I am not starved, but I am used to having more food than this. My hair continues to grow, and every time I have tried to use my powers to cut it the Neuroi have immobilized me with their weapons.
 

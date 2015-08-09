@@ -1,6 +1,7 @@
 #Captivity, part 1
 
 ###By  Kerfitd
+###Status:Non-Canon
 
 A sardonic grin twists my lips. Yeah, right, I could attack them, I could maybe even take out these two... and then what? I don't even have any idea where on Earth I am, in the most literal sense. There's no way I could make it back home. Attacking now would be suicidal.
 

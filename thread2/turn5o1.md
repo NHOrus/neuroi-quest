@@ -1,6 +1,7 @@
 #Neuroi pants
 
 ###By Avalon
+###Status:Non-Canon
 
 ~Schrkk~ ~Crackle Crackle~
 
