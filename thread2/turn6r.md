@@ -27,7 +27,7 @@ Your meetings with the other Hives give you a much better idea of who your worki
 ---
 
 First is the `Vladivastok` Hive. The girl seems to have ambitions to be a constructions overseer, making Mega-structures and Dyson spheres, but for now, she's stuck on Earth with the rest of you. A quick tour of her Hive and the surrounding area displays she's turned the entire area in not just a fortress, but a work of art, with several bizarre yet fascinating structures with strange angles, curves, and shapes that amaze the eye. It's quite fascinating really.  
-_"Nevergottosaythankyoubeforebackatthestartofthecycle'causeIthoughtIwasagonerbeforeyougavemethenewlasersandhelpedcallofthehumanssocallmeifyoueverneedsomethingbuiltokayI'llbehappytohelpinanywayIcan!!!"_
+_"Nevergottosaythankyoubeforebackatthestartofthecycle'causeIthoughtIwasagonerbeforeyougavemethenewlasersandhelpedcallofthehumanssocallmeifyoueverneedsomethingbuiltokayI'llbehappytohelpinanywayIcan!!!"_  
 She's also more energetic than a sun. You can't help but like her.  
 
 The `Atlantic Hive`, well, the new `Atlantic Hive Manager` greets you quite happily. The old boss was a corrupt idiot with more connections than brains, so the Supervisor sent him to the bottom of the ocean where he couldn't get the resources to fuck everything up. He tended to take it all out on the Neuroi who weren't as high ranking.  

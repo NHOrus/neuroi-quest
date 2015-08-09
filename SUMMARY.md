@@ -30,6 +30,7 @@
 	* [Captivity, part 2](thread2/turn5o6.md)
 	* [Turn 6](thread2/turn6.md)
 	* [Turn 6 results](thread2/turn6r.md)
+	* [Turn 6 combat](thread2/turn6w.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
