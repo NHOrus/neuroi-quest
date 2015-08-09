@@ -11,3 +11,4 @@
 - [Kerfitd](https://forums.sufficientvelocity.com/members/kerfitd.691/)
 - [SoaringHawk218](https://forums.spacebattles.com/members/soaringhawk218.305501/) - consent not given
 - [Trent01](https://forums.sufficientvelocity.com/members/trent01.635/)
+- [Avalanche](https://forums.sufficientvelocity.com/members/avalanche.1110/)

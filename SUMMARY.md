@@ -36,6 +36,7 @@
 	* [Happier times](thread2/turn6o2.md)
 	* [Neuroi Pants Pt. 2](thread2/turn6o3.md)
 	* [Lest Darkness Fall](thread2/turn6o4.md)
+	* [Afrika's Dusk](thread2/turn6o5.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
