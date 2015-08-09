@@ -5,5 +5,9 @@
 	"language": "en"
 	"styles":{
 		"website": "styles/justify.css"
+		"ebook": "styles/justify.css"
+		"pdf": "styles/justify.css",
+        "mobi": "styles/justify.css",
+        "epub": "styles/justify.css"
 	}
 }
