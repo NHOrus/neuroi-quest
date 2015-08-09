@@ -1,7 +1,7 @@
 #Neuroi Pants Pt. 2
 
 ###By SoaringHawk218
-###Status:Non-Canon
+###Status: Non-Canon
 
 Alicia’s eyes widened as her show was once again interrupted by static. Around the rec-room, the other Witches looked up as well, a mixture of nervousness and interest filling the air as they all wondered if they were about to get a repeat of that ~~fascinating~~ ~~stunning~~ *evil* Neuroi ~~commercial~~ *propaganda*. A moment later, the static cleared, revealing the same Neuroi Witch as before (or at least Alicia thought it was the same one, they all looked identical.)
 

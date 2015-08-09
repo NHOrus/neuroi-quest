@@ -1,7 +1,7 @@
 #Happier times
 
 ###By Kerfitd
-###Status:Non-Canon
+###Status: Non-Canon
 
 "... I really miss them, you know?"
 

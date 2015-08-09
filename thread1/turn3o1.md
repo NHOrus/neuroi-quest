@@ -1,7 +1,7 @@
 #I Stand in Berlin
 
 ###By Voidwalker Zelt
-###Status:Non-Canon
+###Status: Non-Canon
 
 *Flash*
 

@@ -1,7 +1,7 @@
 #Troubled Tidings
 
 ###By jwolfe
-###Status:Non-Canon
+###Status: Non-Canon
 
 ####After action report: `July 19th 1946`
 

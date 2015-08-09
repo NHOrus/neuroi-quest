@@ -1,7 +1,7 @@
 #The Coming Tide
 
 ### By WarShipper
-###Status:Non-Canon
+###Status: Non-Canon
 
 I can't remember the last time the Neuroi actually pulled me out of my room. They'd strapped me to a table and scanned me with a few little things, back then, and then immediately sent me back. I'd resisted, but at this point I can barely even bother to curse the robots that drag me along. At the very least, it's a welcome reprieve from the music. So I let them lead me, only bothering to slowly toddle along like a newborn babe. I've paced my cell hundreds of times by now, but it's been a while since I actually walked in a straight line for more than ten feet. It feels somewhat odd, like my legs are leaning to the left. I growl.
 

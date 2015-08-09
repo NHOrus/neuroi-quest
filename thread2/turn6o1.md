@@ -1,7 +1,7 @@
 #Delusion
 
 ###By Kerfitd
-###Status:Non-Canon
+###Status: Non-Canon
 
 *Beep*
 

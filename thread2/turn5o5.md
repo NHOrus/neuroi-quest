@@ -1,7 +1,7 @@
 #Captivity, part 1
 
 ###By  Kerfitd
-###Status:Non-Canon
+###Status: Non-Canon
 
 I don't know how long I've been here. Weeks. Maybe months. The food has been brought to me a hundred and nineteen times, and while it does feel regular, I don't know exactly how far apart the meals are.
 
