@@ -40,6 +40,8 @@
 	* [Scientific Method](thread2/turn6o6.md)
 * [Panted And Dangerous!](thread3/README.md)
     * [Turn 7](thread3/turn7.md)
+    * [Turn 7 results](thread3/turn7r.md)
+    * [Turn 7 news](thread3/turn7n.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
