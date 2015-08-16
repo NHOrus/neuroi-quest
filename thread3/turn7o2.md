@@ -27,9 +27,9 @@ It was the lurch that woke Su-Hyun from her bitter dreams, a sign she knew from 
 
 Her savior was back, gently picking her up in its arms and carrying her out of the aircraft with its crablike legs. Even now she could see people being carried out of the craft being segregated into two groups, one group comprising of her and several dozen other young girls, and a much larger group consisting of everyone else. A flash of terror struck her, were they being segregated like in the facility? For the purposes of more experimentation?
 
-She then immediately crushed her unworthy thoughts with a vengeance. The Neuroi had saved her from Hell itself, how could she possibly think that they were monsters just like them? She felt revolted with herself for even thinking to compare the two, nothing, nothing could possibly compare to the monstrosity of them, certainly not her saviors.
+She then immediately crushed her unworthy thoughts with a vengeance. The Neuroi had saved her from Hell itself, how could she possibly think that they were monsters just like *them*? She felt revolted with herself for even thinking to compare the two, nothing, *nothing* could possibly compare to the monstrosity of *them*, certainly not her saviors.
 
-Gritting her teeth in anger at her display of unworthiness, she suddenly choked on blood, lungs suddenly hacking and burning in pain as she spat blood. The last, mocking curse of the facility still lingering within her veins. She desperately shook her head when she saw her savior's crimson optics reorient on her, not wishing to cause it unnecessary trouble. If anything though, that seemed only to concern it further, its pace accelerating to a group of more Neuroi machines, machines, she realised, she recognised from when the Neuroi had first rescued her. They lowered her in, a near-perfect rendition of the time they had rescued her, and then drove the vehicle off.
+Gritting her teeth in anger at her display of unworthiness, she suddenly choked on blood, lungs suddenly hacking and burning in pain as she spat blood. The last, *mocking* curse of the facility still lingering within her veins. She desperately shook her head when she saw her savior's crimson optics reorient on her, not wishing to cause it unnecessary trouble. If anything though, that seemed only to concern it further, its pace accelerating to a group of more Neuroi machines, machines, she realised, she recognised from when the Neuroi had first rescued her. They lowered her in, a near-perfect rendition of the time they had rescued her, and then drove the vehicle off.
 
 The first few minutes went past in silence, neither a word from her silent rescuers nor the her fellow prisoners, then something poked into her side.
 
@@ -53,23 +53,23 @@ Meiling scrunched up her face, obviously trying to divine the meaning of the wor
 
 "Heeeeeey! I'm not that bad!" Meiling mock-pouted, before breaking into a set of giggles. Unable to help herself, Su-Hyun quickly joined her.
 
-"Soooo." Meiling said after their last giggles died down, she hesitated before continuing. "How long were you...Well, there?"
+"Soooo." Meiling said after their last giggles died down, she hesitated before continuing. "How long were you...Well, *there?*"
 
 Su-Hyun's face darkened. "Six months."
 
-"Six months?" Meiling gasped in horror. "Gods above, I barely survived three days in that Hell! I'm sorry, so, so sorry."
+"*Six months?*" Meiling gasped in horror. "Gods above, I barely survived three days in that Hell! I'm sorry, so, *so* sorry."
 
 Su-Hyun held a hand up, shaking her head. "Meiling, I'm good, I'm fine, the Neuroi saved us right? We're not going to back there ever again."
 
 "I-I guess." Meiling still looked conflicted. "But still-"
 
-"Enough." Su-Hyun looked for something else to change the subject. "So, how did you did lose that tooth?"
+"*Enough.*" Su-Hyun looked for something else to change the subject. "So, how did you did lose that tooth?"
 
-"I-Whuh?" Meiling looked surprised for a moment, blinking for a moment before pointing to the gap. "Oh, this? Well when I got brought here, there was this Fusoan witch supposed to be handling me, might've been the same for you. Called her Bitchtits. Anyway, got sick of that real quick, so on the second day I kiiiiinda ambushed her and gave her a nice shiner right in the eye." She pointed to her eye, grinning. "She knocked this tooth out in response, among...other things. I'll still cherish the memory though."
+"I-Whuh?" Meiling looked surprised for a moment, blinking for a moment before pointing to the gap. "Oh, this? Well when I got brought here, there was this Fusoan witch supposed to be handling me, might've been the same for you. Called her Bitchtits. Anyway, got sick of that real quick, so on the second day I kiiiiinda ambushed her and gave her a nice shiner right in the eye." She pointed to her eye, grinning. "She knocked this tooth out in response, among... other things. I'll still cherish the memory though."
 
 Su-Hyun laughed. "Really? You did that? I wish I managed to do something similar in my time there."
 
-Meiling laughed uneasily. "Trust me, you kind of don't. What they did after...wasn't fun."
+Meiling laughed uneasily. "Trust me, you kind of don't. What they did after... wasn't fun."
 
 "Hey." Both girls turned to find a dark-skinned girl glaring at them. "Some try sleep." She said in broken Zhongwen. "Quiet."
 
@@ -93,7 +93,7 @@ Su-Hyun pulled back her hand. "I'm fine."
 
 "Are you shitting me?" Meiling said incredulously. "Look at that! Witch or not, that looks fucking serious. I'm sure the Neuroi have some fancy-pansy medicine or something that can help-"'
 
-"I'm fine." Su-Hyun insisted. "There is no need to bother anyone with this."
+"I'm *fine.*" Su-Hyun insisted. "There is no need to bother anyone with this."
 
 Meiling glared at her for a moment, but she reluctantly backed down after seeing that Su-Hyun wasn't going to budge. "Fine, but don't think the Neuroi saved you only for the sake of you puking your guts out later."
 
@@ -123,7 +123,7 @@ Su-Hyun didn't have anything to say to that, and the next few minutes passed in 
 
 Many of the girls blinked in surprise at the appearance of a simple smiling face appeared on her helm. "Hello, I am Emissary Zero Zero. Most future interaction between our races will be left to those of our design. Allow me the pleasure of being the first to greet you to your new home, I hope it shall be of adequate satisfaction. If you have any questions, I shall endeavour to answer them now."
 
-"Warm" Su-Hyun thought. "She seems really nice." Beside her, Meiling hesitantly raised a hand. "I'm really grateful for how you all rescued us and all, really, but will we be able to see our families again anytime soon? I'm the only one Mom really has left."
+"*Warm*" Su-Hyun thought. "*She seems really nice.*" Beside her, Meiling hesitantly raised a hand. "I'm really grateful for how you all rescued us and all, really, but will we be able to see our families again anytime soon? I'm the only one Mom really has left."
 
 The Emissary's voice seemed to take on a downcast tone. "Unfortunately, due to our current conflict with the human governments we are unable to spare the time and resources to safely return you to your homes. Furthermore, the Empire of Fuso still retains control of Zhong Guo and Inchon, and is currently conducting further advances down South-East Asia, therefore we believe that there is a likely possibility that there will be efforts to recapture you should you be returned. I am sorry we are not able to render more assistance in this matter."
 
@@ -139,9 +139,9 @@ Chatter rose up from amongst the girls at the revelation of their location. Anot
 
 The helm lit up in a smiling face. "Certainly! According to sources we have found pertaining to this castle, which is called the Neuschwanstein Castle, it is 78 planetary cycles old, and commissioned by order of Ludwig II of Bavaria, back when Karlsland was still divided into separate states. Well-regarded for his architectural achievements, Neuschwanstein is considered his crowning achievement and a symbol of Romantic architecture. Currently it is the home of several young witches like yourselves, whom we hope you shall become friends with."
 
-Murmurs went through the girls as Su-Hyun and Meiling exchanged a look, were there more victims of the people who ran the facility or people like them? The idea that the facility from where they were rescued was not the only was...horrifiying, how many more people were suffering as they did?'
+Murmurs went through the girls as Su-Hyun and Meiling exchanged a look, were there more victims of the people who ran the facility or people like them? The idea that the facility from where they were rescued was not the only was... *horrifiying*, how many more people were suffering as they did?'
 
-Before one of them could dredge up the courage to ask the question however, the Emissary suddenly turned around and pointed a hand to the magnificent white castle that had suddenly appeared before them. "While I do not mind answering further questions, we believe it best that you are introduced to your new co-inhabitants first before any further questions are asked. We hope you shall all get along!"
+Before one of them could dredge up the courage to ask the question however, the Emissary suddenly turned around and pointed a hand to the [magnificent white castle](../images/witches_castle.jpg) that had suddenly appeared before them. "While I do not mind answering further questions, we believe it best that you are introduced to your new co-inhabitants first before any further questions are asked. We hope you shall all get along!"
 
 Su-Hyun gawped at the massive structure before them, vaguely aware that Meiling was doing the same beside her. Intellectually, she knew it was big when she had first looked upon it, but the reality close up was even more imposing, even the governor's palace back home could not possibly hope to compare to this!
 
