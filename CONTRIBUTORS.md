@@ -13,3 +13,4 @@
 - [Trent01](https://forums.sufficientvelocity.com/members/trent01.635/)
 - [Avalanche](https://forums.sufficientvelocity.com/members/avalanche.1110/)
 - [Kolar](https://forums.sufficientvelocity.com/members/kolar.1620/)
+- [SirLagginton](https://forums.sufficientvelocity.com/members/sirlagginton.1688/)

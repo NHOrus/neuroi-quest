@@ -43,6 +43,7 @@
     * [Turn 7 results](thread3/turn7r.md)
     * [Turn 7 news](thread3/turn7n.md)
     * [The First and Rebirth](thread3/turn7o1.md)
+    * [Scars That Never Heal](thread3/turn7o2.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
