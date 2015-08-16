@@ -1,6 +1,6 @@
 #Turn 7, July 1946
 
-Things are looking up. The humans are on the run, your army got through a battle without being annihilated(that honour went to Atlantic this time), and best of all, you finally captured Yoshika Miyafuji.  
+Things are looking up. The humans are on the run, your army got through a battle without being annihilated(that honour went to Atlantic this time), and best of all, you finally captured `Yoshika Miyafuji`.  
 Time to get cracking. And hope the humans don't start their bullshit again.  
 Fortunately, your friends have given you some nice new equipment.  
 *New Unit Available:* `Escort Sub` (Costs `100` RU) (Excellent vs Transports, Good vs aircraft, Decent vs ships, Weak vs Witches and Submarines)  
