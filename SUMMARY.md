@@ -42,6 +42,7 @@
     * [Turn 7](thread3/turn7.md)
     * [Turn 7 results](thread3/turn7r.md)
     * [Turn 7 news](thread3/turn7n.md)
+    * [The First and Rebirth](thread3/turn7o1.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
