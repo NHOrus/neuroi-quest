@@ -169,47 +169,47 @@ Meiling turned back to the foreigner girls, and before Su-Hyun could resign hers
 
 Two girls passed through the door, talking excitedly with one another. They also sported a look that Su-Hyun had desperately hoped never to see again.
 
-"Yoshika."
+"*Yoshika.*"
 
-"No." Su-Hyun whispered, already starting to hyperventilate. "No, no, no, no, NO, NO!" She screamed, startling the foreigner girls. Meiling, who had frozen up the moment she saw the two newcomers, suddenly slapped aside a hand raised in concern for her and started backing away, white-faced and trembling like a leaf.
+"No." Su-Hyun whispered, already starting to hyperventilate. "No, *no, no, no, NO, **NO!***" She screamed, startling the foreigner girls. Meiling, who had frozen up the moment she saw the two newcomers, suddenly slapped aside a hand raised in concern for her and started backing away, white-faced and trembling like a leaf.
 
-Alarmed, the two girls (Fusoans) starting running towards her.
+Alarmed, the two girls (*Fusoans*) starting running towards her.
 
-"Stay away!" Su-Hyun screeched, clawing out of the grip of her Neuroi minder and dropping to the ground in a desperate attempt to get away. "Get away you fucking monsters!" She turned to her Neuroi savior. It saved her right? It'll protect her from them. "Please." She sobbed. "Not them, anything but them. I'll do anything, but not them."
+"Stay away!" Su-Hyun screeched, clawing out of the grip of her Neuroi minder and dropping to the ground in a desperate attempt to get away. "Get away you fucking monsters!" She turned to her Neuroi savior. It *saved* her right? It'll protect her from *them*. "Please." She sobbed. "Not them, anything but *them*. I'll do anything, but not *them*."
 
-Like a predator to the scent of blood, if anything her screams drove the Fusoans more quickly to her, until like the Messengers of Heaven themselves, Neuroi witches dove out of the sky and restrained them, allowing her Neuroi savior to quickly scoop her and scuttle back from them. Another Neuroi landed next to Meiling, dragging the trembling girl to safety.
+Like a predator to the scent of blood, if anything her screams drove the Fusoans more quickly to her, until like the Messengers of Heaven themselves, Neuroi witches dove out of the sky and restrained them, allowing her Neuroi savior to quickly scoop her and scuttle back from *them*. Another Neuroi landed next to Meiling, dragging the trembling girl to safety.
 
 By now the entire courtyard had seen what was going on, and desperate screams and sobs resounded as the former prisoners attempted to get away with near-feral desperation. Seeing that the situation was spiraling rapidly out of control, Neuroi minders quickly gathered their charges and retreated away as Neuroi witches quickly piled the others back into the castle.
 
 ---
 
-"What the bloody fuck was that?"
+"What the *bloody fuck* was that?"
 
-"We may have...underestimated the level of psychological trauma involved." The Emissary admitted.
+"We may have... *underestimated* the level of psychological trauma involved." The Emissary admitted.
 
-"Fucking really?" Matsuda Shouko snarled. "You torture a group of fucking girls and you 'underestimate' how bad they come out of it? You goddamn alien bint, what the fuck did those girls ever do to you to deserve that? Kill your fucking puppy?"
+"Fucking *really?*" Matsuda Shouko snarled. "You torture a group of fucking girls and you '*underestimate*' how bad they come out of it? You goddamn alien bint, what the fuck did those girls ever do to you to deserve *that*? Kill your fucking puppy?"
 
 "...Shouko, I don't think the situation is exactly like that." Charlotte Yeager ventured cautiously.
 
 "You do not appear to understand the full context of the situation." The Emissary agreed.
 
-"Don't bullshit me!" Shouko roared. "Charlotte, you saw those girls! Skin and bones, with scars everywhere! I'm not fucking blind, those girls have been tortured, and who the fuck would do that apart from you fucking Neuroi!" She pointed an accusing finger at the Emissary. "Did you like dangling healwitches in front of them and taking them away? Is this some sort of sick goddamn game to you? So what other pathetic excuses have you cooked up then? Go on! I need a fucking laugh after seeing that!"
+"*Don't bullshit me!*" Shouko roared. "Charlotte, you saw those girls! Skin and bones, with scars everywhere! I'm not fucking blind, those girls have been tortured, and who the fuck would do that apart from you fucking Neuroi!" She pointed an accusing finger at the Emissary. "Did you like dangling healwitches in front of them and taking them away? Is this some sort of sick goddamn game to you? So what other pathetic excuses have you cooked up then? Go on! I need a fucking laugh after seeing that!"
 
-"Shouko." Gertrude barked, grabbing her arms and restraining her before she lost all self-control and outright attacked the Emissary. "We're all unhappy with the situation right now, but ranting like this is not helping." Gertrude then glared at the Emissary. "Alright, so if you're claiming that you're not responsible for the condition of those girls, then who is?"
+"*Shouko.*" Gertrude barked, grabbing her arms and restraining her before she lost all self-control and outright attacked the Emissary. "We're all unhappy with the situation right now, but ranting like this is *not helping.*" Gertrude then glared at the Emissary. "Alright, so if you're claiming that you're not responsible for the condition of those girls, then who is?"
 
 The Emissary paused for a moment, before a familiar scratchy sound all those present recognised as a radio broadcast sounded through the room.
 
-"...And in a series of shocking statements, the Communist Party of Zhong Guo has accused the Empire of Fuso of atrocities of an unprecedented scale-"
+"*...And in a series of shocking statements, the Communist Party of Zhong Guo has accused the Empire of Fuso of atrocities of an *unprecedented* scale-*"
 
-"...After careful examination of the evidence presented by the Communist Party of Zhong Guo and extensive consultation with our sources in Asia, we have found the Empire of Fuso guilty of the grossest and most inhumane violations of both the Geneva Conventions and the Geneva Protocol. The United States of Liberion condemns these horrific acts, and will sever all diplomatic and economic relations until such a time comes that the Fusoans feel they can conduct themselves as human beings once more."
+"*...After careful examination of the evidence presented by the Communist Party of Zhong Guo and extensive consultation with our sources in Asia, we have found the Empire of Fuso guilty of the grossest and most inhumane violations of both the Geneva Conventions and the Geneva Protocol. The United States of Liberion condemns these horrific acts, and will sever all diplomatic and economic relations until such a time comes that the Fusoans feel they can conduct themselves as human beings once more.*"
 
-"...As the result of last week's stunning announcements of the severing of trade ties with Fuso by the nations of Britannia, Liberion, Gallia, and countless others, stock market prices have dropped by an astounding 12%, and show no signs of stopping anytime soon. Economists fear that the stock market crash of 1929 is likely to return if investor confidence is not restored soon."
+"*...As the result of last week's stunning announcements of the severing of trade ties with Fuso by the nations of Britannia, Liberion, Gallia, and countless others, stock market prices have dropped by an astounding 12%, and show no signs of stopping anytime soon. Economists fear that the stock market crash of 1929 is likely to return if investor confidence is not restored soon.*"
 
 "...What." Shouko said, as the other girls shared shocked looks. "No, bullshit. The Empire of Fuso wouldn't sully its honor with torture like that, it's a fucking lie!"
 
 "...The-the rumors." Yoshika whispered to herself, shaking.
 
-"The rumors are bullshit Yoshika, anyone with two brain cells to rub together would know that." Shouko shook her head. "The Army is full of morons, but they wouldn't lower themselves to that. It's an alien machine, it could've easily faked those recordings."
+"The rumors are bullshit Yoshika, anyone with two brain cells to rub together would know that." Shouko shook her head. "The Army is full of morons, but they wouldn't lower themselves to *that*. It's an alien machine, it could've easily faked those recordings."
 
 "They seemed pretty nice until you and Yoshika appeared." Sarah said, her voice conflicted.
 
@@ -221,31 +221,31 @@ Shouko glared at the Emissary, her mouth set into a grim, angry line. "You bet I
 
 The Emissary nodded, and a strange light appeared from her eyes, directed at the far wall. After looking in confusion for a moment, the girls turned around, realising it was some sort of colored movie projection.
 
-A walled compound roared with gunfire as soldiers from all nations descended upon it, all racing for the prize that laid within. The view suddenly dropped, revealing itself to be a Neuroi as bright crimson beams spat from its arms and smote the guard towers desperately attempting to return fire. Ignoring the shouting and pointing from the other attacking forces, it poured more fire into the compound, suppressing the enemies within as great obsidian monoliths appeared in the sky, disgorging a swarm of Neuroi infantry and assault walkers.
+*A walled compound roared with gunfire as soldiers from all nations descended upon it, all racing for the prize that laid within. The view suddenly dropped, revealing itself to be a Neuroi as bright crimson beams spat from its arms and smote the guard towers desperately attempting to return fire. Ignoring the shouting and pointing from the other attacking forces, it poured more fire into the compound, suppressing the enemies within as great obsidian monoliths appeared in the sky, disgorging a swarm of Neuroi infantry and assault walkers.*
 
 Shouko clenched her hands as she saw men in Fuso army uniforms being struck down, but she kept quiet.
 
-The view changed, a wall being smashed aside by a Neuroi walker. A Fuso army squad attempted to slow it down, only to be incinerated for their trouble in a volley of liquid sunfire. It passed by the blackened trenches its weaponry had dug and smashed through another wall.
+*The view changed, a wall being smashed aside by a Neuroi walker. A Fuso army squad attempted to slow it down, only to be incinerated for their trouble in a volley of liquid sunfire. It passed by the blackened trenches its weaponry had dug and smashed through another wall.*
 
-"No..." Shouko whispered. "No, why?"
+"No..." Shouko whispered. "No, *why?*"
 
-"Mein Gott." Gertrude murmured, her face pale.
+"*Mein Gott.*" Gertrude murmured, her face pale.
 
 Yoshika cried into Charlotte's chest, a sorrowful look on the older girl's face as she hugged the Fuso girl. Sarah just dropped back down on her bottom, staring at the scene.
 
-A woman lay on a medical table, limbs bound by black leather straps. Blood pooled around her, red fluid pumping out of her partially dissected lower body. Intestines were splayed around her with morbid care, bits of other organs located around her. By some twisted miracle she was still alive, body jerking spastically as eyes looked desperately at the Neuroi, begging, pleading.
+*A woman lay on a medical table, limbs bound by black leather straps. Blood pooled around her, red fluid pumping out of her partially dissected lower body. Intestines were splayed around her with morbid care, bits of other organs located around her. By some twisted miracle she was still alive, body jerking spastically as eyes looked desperately at the Neuroi, begging, pleading.*
 
-Almost gently, it raised a plasma cannon to her head.
+*Almost gently, it raised a plasma cannon to her head.*
 
-Another Neuroi scurried down the corridors, periodically stopping and rotating its sensor mount, obviously looking for something.
+*Another Neuroi scurried down the corridors, periodically stopping and rotating its sensor mount, obviously looking for something.*
 
-"Hurry up Ryota! We gotta execute those fucking prisoners before the Neuroi find them!"
+*"Hurry up Ryota! We gotta execute those fucking prisoners before the Neuroi find them!"*
 
-The Neuroi paused, before suddenly barreling down the corridor to the right, blazing lasers instantly cutting down a trio of Fuso soldiers. Looking towards the direction the men were heading, it started to quickly scuttle, more Neuroi pouring out of adjacent doors and corridors to join it in a black wave of alien machinery.
+*The Neuroi paused, before suddenly barreling down the corridor to the right, blazing lasers instantly cutting down a trio of Fuso soldiers. Looking towards the direction the men were heading, it started to quickly scuttle, more Neuroi pouring out of adjacent doors and corridors to join it in a black wave of alien machinery.*
 
-Reaching the door to the cellblock, they smashed through in time to find a Fuso witch leveling a pistol at a prisoner. As one, the Neuroi fired, annihilating her in a fusillade of laser fire. The Neuroi approached the cell, kicking aside the carbonised corpse of the Fuso witch as its fellows formed a defensive phalanx around the prisoner block.
+*Reaching the door to the cellblock, they smashed through in time to find a Fuso witch leveling a pistol at a prisoner. As one, the Neuroi fired, annihilating her in a fusillade of laser fire. The Neuroi approached the cell, kicking aside the carbonised corpse of the Fuso witch as its fellows formed a defensive phalanx around the prisoner block.*
 
-Stepping inside, it picked up a very familiar emaciated girl.
+*Stepping inside, it picked up a very familiar emaciated girl.*
 
 "STOP!" Shouko sobbed, tears streaming down her face as she fell to her knees. "Stop, please, I'm begging you. You've made your point. Stop."
 
@@ -261,7 +261,7 @@ Stepping inside, it picked up a very familiar emaciated girl.
 
 The Emissary looked at them, and for one horrifying moment the Fuso girls thought that she would just refuse again. "Superior Existence R1 has agreed to facilitate your meeting." The Emissary said reluctantly. "Ten minutes." She floated back out.
 
-"You don't have to do this guys." Sarah shook her head. "Those...things there weren't you."
+"You don't have to do this guys." Sarah shook her head. "Those... *things* there weren't you."
 
 "No, we have to." Yoshika grimaced. "We have to, one way or another."
 
@@ -287,79 +287,79 @@ Taking the lack of answer as a good sign, Shouko forged on. "W-what was done to 
 
 Help?
 
-Help?
+*Help?*
 
-"Is that what you call it?" Su-Hyun snarled. "Help?"
+"Is that what you call it?" Su-Hyun snarled. "*Help?*"
 
 Yoshika flinched. "N-no, I-"
 
-"Is that what you call invading my nation, and murdering our Empress, raping and pillaging all the way? When your soldiers used me as one of your fucking Comfort Women for a year before exiling me to Hell, was that 'help'?
+"Is that what you call invading my nation, and murdering our Empress, raping and pillaging all the way? When your soldiers *used* me as one of your fucking Comfort Women for a year before exiling me to Hell, *was that 'help'*?
 
-By now, Meiling looked seriously concerned, and moved towards Su-Hyun only to be shoved away. Su-Hyun pushed herself off her Neuroi minder, hearing a familiar pop in her ears as her familiar materialised and magic rushed throughout her system, reinforcing her drastically weakened body as she started stumbling towards the Fuso bitches.
+By now, Meiling looked seriously concerned, and moved towards Su-Hyun only to be shoved away. Su-Hyun pushed herself off her Neuroi minder, hearing a familiar pop in her ears as her familiar materialised and magic rushed throughout her system, reinforcing her drastically weakened body as she started stumbling towards the Fuso *bitches*.
 
-"Dad! Dad!" The door burst open, and Tae-Hyuk rushed in, face anxious. "Dad! I need to talk to you!"
+*"Dad! Dad!" The door burst open, and Tae-Hyuk rushed in, face anxious. "Dad! I need to talk to you!"*
 
-"Manners boy!" Her father barked. "Just what in the blazes is the matter with you?"
+*"Manners boy!" Her father barked. "Just what in the blazes is the matter with you?"*
 
-"The Fusoans are here, looking for Comfort Women. We have to hide Su-Hyun and Mom now!"
+*"The Fusoans are here, looking for Comfort Women. We have to hide Su-Hyun and Mom now!"*
 
-Her father paled, a rarity on the normally steadfast man. "Get your mother, NOW!"
+*Her father paled, a rarity on the normally steadfast man. "Get your mother, NOW!"*
 
 "Is that what you call my home being burnt to ashes, and the murder of my family?" She seethed.
 
-"I will not!"
+*"I will not!"*
 
-"Min-Ha, please!" Her father begged. "They will come soon now, you have to hide."
+*"Min-Ha, please!" Her father begged. "They will come soon now, you have to hide."*
 
-"The second they see that I'm not here, they will tear the place apart and take both me and Su-Hyun!" Her mother shot back. "A single son they can believe, but no mother? Better just me than the both of us! I am older, and there is a good chance that they will simply ignore me."
+*"The second they see that I'm not here, they will tear the place apart and take both me and Su-Hyun!" Her mother shot back. "A single son they can believe, but no mother? Better just me than the both of us! I am older, and there is a good chance that they will simply ignore me."*
 
-"Now is not the time for your self-sacrificial attitude, you have to hide now!"
+*"Now is not the time for your self-sacrificial attitude, you have to hide now!"*
 
-The door crashed.
+*The door crashed.*
 
 "You shot my father!" She screamed.
 
-A gunshot rang out.
+*A gunshot rang out.*
 
 "Bayoneted my brother!"
 
-"Tae-Hyuk!" Su-Hyun sobbed over her dying brother. "Please don't leave me!"
+*"Tae-Hyuk!" Su-Hyun sobbed over her dying brother. "Please don't leave me!"*
 
-"Su-Hyun." Tae-Hyuk whispered, blood pouring out of his mouth. "Run, please."
+*"Su-Hyun." Tae-Hyuk whispered, blood pouring out of his mouth. "Run, please."*
 
-"No!" Su-Hyun screamed as she felt arms grab her from behind. "No! No! Noooo!"
+*"No!" Su-Hyun screamed as she felt arms grab her from behind. "No! No! Noooo!"*
 
-"And raped my mother to pregnancy, before cutting her up like some fucking animal!"
+"And raped my mother to pregnancy, before cutting her up like some fucking *animal!*"
 
-"Mom." Su-Hyun trembled in her cell, gathering up the courage to ask what had been on her mind these last few months. "Mom, that isn't-that isn't one of you and Dad's isn't it?"
+*"Mom." Su-Hyun trembled in her cell, gathering up the courage to ask what had been on her mind these last few months. "Mom, that isn't-that isn't one of you and Dad's isn't it?"*
 
-Her mother shook her head sadly, looking at her swollen stomach, her strong, beautiful mother...Su-Hyun nearly cried. How did it all go so wrong?
+*Her mother shook her head sadly, looking at her swollen stomach, her strong, beautiful mother...Su-Hyun nearly cried. How did it all go so wrong?*
 
-"Su-Hyun." Her mother said suddenly, her voice grim. "There's something I need to talk to you about. Someday...someday may come a time when I'm not by your side, where I cannot even give you the comfort of my presence. When that day comes, you have to be strong, understand me? And no matter what, Me, your father, and Tae-Hyuk will always love you okay?"
+*"Su-Hyun." Her mother said suddenly, her voice grim. "There's something I need to talk to you about. Someday...someday may come a time when I'm not by your side, where I cannot even give you the comfort of my presence. When that day comes, you have to be strong, understand me? And no matter what, Me, your father, and Tae-Hyuk will always love you okay?"*
 
-"No, Mom!" Su-Hyun cried. "Please, I can't lose you too!"
+*"No, Mom!" Su-Hyun cried. "Please, I can't lose you too!"*
 
-The door started shaking, the jangle of keys audible outside.
+*The door started shaking, the jangle of keys audible outside.*
 
-"Promise me, please Su-Hyun!" Her mother pleaded.
+*"Promise me, please Su-Hyun!" Her mother pleaded.*
 
-"I-"
+*"I-"*
 
-The door continued to shake.
+*The door continued to shake.*
 
-"I promise."
+*"I promise."*
 
-"Thank you Su-Hyun." Her mother smiled. "Don't worry, that day hasn't come yet."
+*"Thank you Su-Hyun." Her mother smiled. "Don't worry, that day hasn't come yet."*
 
-The door broke open.
+*The door broke open.*
 
-"I'll be back soon okay?"
+*"I'll be back soon okay?"*
 
 Su-Hyun vomited blood, lungs screaming as they desperately tried to inhale air. She staggered to a single knee, coughing out blood painfully before getting back to her feet, Yoshika moved to help her, but she slapped her aside, ignoring the searing pain in her chest.
 
 Rage was a hell of an anesthetic.
 
-"You." Su-Hyun rasped, blood pouring from her mouth. "I would rather die, than accept your 'help' ever again!" She shrieked, the effort of speaking finally sending her to her knees in sheer exhaustion and pain.
+"*You.*" Su-Hyun rasped, blood pouring from her mouth. "I would rather *die*, than accept your *'help' ever again!*" She shrieked, the effort of speaking finally sending her to her knees in sheer exhaustion and pain.
 
 She couldn't breathe anymore, and she found black rapidly consuming the edges of her vision. Meiling ran up, shouting something at the Fusoans. The last thought Su-Hyun had before being dragged into oblivion was to wonder what her friend thought of what she said.
 
@@ -383,19 +383,19 @@ Meiling smiled, voice somewhat muted from her normal exuberant self. "Yeah, hey.
 
 "We carried you inside after you collapsed from nearly yelling yourself to death." Meiling said, her voice taking on a reproachful tone. "You still nearly did actually, if it wasn't for the Fusoans, you'd be dead by now."
 
-"What?" Su-Hyun sat up. "Those fucking bitches-"
+"*What?*" Su-Hyun sat up. "Those fucking *bitches-*"
 
-"I asked them to!" Meiling glared, causing the other girl to flinch. "Said I would wipe the slate clean if they did. Do you not understand how close you came to dying you fucking idiot? You had tuberculosis, an advanced case to boot. I was told you had about a month left in your condition, and that was before you had gone on your little rant in the courtyard!"
+"I asked them to!" Meiling glared, causing the other girl to flinch. "Said I would wipe the slate clean if they did. Do you not understand how close you came to dying you fucking *idiot*? You had tuberculosis, an advanced case to boot. I was told you had about a month left in your condition, and that was before you had gone on your little rant in the courtyard!"
 
 "I-why?"
 
-"Because I am your friend you thick-headed bitch!" Meiling snarled. "I've seen way too many people lose their lives to that fucking disease, and there was no fucking way I was going to lose another friend to it, especially not something the Fusoans left as a goodbye present!" She sighed. "Yeah, so whatever, slate is clean with them. Guess I actually have to go talk to them now." She gave a humorless chuckle.
+"Because I am your *friend* you thick-headed bitch!" Meiling snarled. "I've seen way too many people lose their lives to that fucking disease, and there was no fucking way I was going to lose another friend to it, especially not something the Fusoans left as a goodbye present!" She sighed. "Yeah, so whatever, slate is clean with them. Guess I actually have to go talk to them now." She gave a humorless chuckle.
 
 "I'm sorry."
 
 "Huh?"
 
-"I'm sorry!" Su-Hyun choked, tears streaming down her face. "I-I'm sorry for worrying you, I'm so sorry. But I can't forgive them, I'm not like you, they just took too much from me!" She cried. "I can't."
+"I'm sorry!" Su-Hyun choked, tears streaming down her face. "I-I'm sorry for worrying you, I'm so sorry. But I can't forgive them, I'm not like you, they just took too much from me!" She cried. "I *can't*."
 
 "Su-Hyun, after what they did to us, nevermind all the stuff you said in the courtyard, I wouldn't expect you to." Meiling sighed and hugged her crying friend. "Stuff like that doesn't heal easily, if at all." She gave a mischievous grin. "Guess that makes me special."
 
@@ -408,3 +408,17 @@ Su-Hyun grinned despite the tears still running down her cheeks. "시끄럽다."
 "Heeeeeey!" Meiling pouted before grinning herself, the duo eventually breaking out into laughter. Su-Hyun laughed and cried as she hugged her friend tightly.
 
 "Really, thanks." 
+
+---
+
+###Author's notes:
+
+OUR HEROES!
+
+Song Su-Hyun:
+
+![Song Su-Hyun](../images/song_su-hyun.jpg)
+
+Huang Meiling:
+
+![Huang Meiling](../images/hyang_meiling.jpg)
