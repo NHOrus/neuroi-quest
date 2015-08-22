@@ -67,3 +67,17 @@ If it isn't in said category, we don't have the infrastructure to make it or the
 
 - **Q:** Why aren't we going to the moon or something? We can mine RU all we want there and the humans can't attack us.
 - **A:** The Neuroi did away with needing to collect materials a long time ago. Their matter replicators make the ones in Star Trek look like a has-been. RU is based off of our Ambient Energy (AE) collection. This energy (known to the humans as magic) is produced by biological organisms and is the main power source for the Neuroi and the Fahrong. It cannot be harvested in useful amounts from a dead world. 
+
+- **Q:** How happens there is no USSR in Neuroi Quest?
+- **A:** Strike Witches timeline changes *way* before any of that.  
+Orussia's army, supported by large amounts of Night Witches, actually kicked major amounts of ass in the Crimean War.  
+Likewise in the first Neuroi War, and there never was a Fuso-Orussia war.  
+The world is *very* different. Orussia's army under the Tsar has a reputation as being one of the most well trained and professional forces on the planet, second only to Karlsland. It's Night Witches the most feared Witches group on the planet. 
+In Crimean War Orussia had Night Witches. Which meant Orussia had the equivalent of modern radar/super-magical sensors and Night Vision for the whole war.
+The Orussians literally knew where their enemies were, how many of them were there, what their situation was, and where they maneuver to gain the advantage, virtually 100% of the time.
+Orussia won the Crimean War and was industrializing quite a bit earlier. A lot of the Balkan nations were Orussian puppets in all but name.
+
+- **Q:** How much of our history happened in the world of Neuroi Quest?
+- **A:** Strike Witches timeline changes with Caesar avoiding getting assassinated and being named Augustus.  
+You know, Caesar of Ancient Rome.  
+Oh, and Lord Nobunaga of Japan also lived and expanded Japan beyond its home islands into the rest of the Pacific.
