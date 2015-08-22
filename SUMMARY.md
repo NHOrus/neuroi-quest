@@ -45,6 +45,7 @@
     * [The First and Rebirth](thread3/turn7o1.md)
     * [Scars That Never Heal](thread3/turn7o2.md)
     * [Cooking with Neuroi](thread3/turn7o3.md)
+    * [BURN CAPTURE the Witch!](thread3/turn7o4.md)
 * [Worldbuilding](world.md)
 * [FAQ](FAQ.md)
 * [Contributors](CONTRIBUTORS.md)
