@@ -33,7 +33,7 @@ She smiled pleasantly at the assembly of shocked men, "Call me Jans."
 
 With a slight cough, the man at the auditorium stuffed something, Havildar suspected a sidearm, out of sight before continuing, voice dry as ever, "As I stated, she will be your point man in this mission. Agent Bond will now take over this briefing for specifics."
 
-XxXxXxXxXx
+---
 
 June 10th, 1946
 
@@ -79,7 +79,7 @@ Charles saluted upwards, "Approval by majority received. The Agency will move im
 
 Charles Stross spun on heel and exited the top secret briefing room beneath Whiskey Hotel.
 
-XxXxXxXxXx
+---
 
 June 12th, 1946
 
@@ -95,7 +95,7 @@ June 12th, 1946
 
 "I do not know. Ultimately, that is up to the Tsar. I will be stationing forces closer to Harbin to guard against sabotage however. Some of our very best. We're so close. We must not fail. Hundreds of Millions are counting on us."
 
-XxXxXxXxXx
+---
 
 June 17th, 1946
 
@@ -123,7 +123,7 @@ Yion opened her mouth, then closed it with a snap. Turning around and marching t
 
 There was no way. Just no way.
 
-XxXxXxXxXx
+---
 
 June 25th, 1946
 
@@ -153,7 +153,7 @@ Still the nationalists troops did nothing, simply standing by at the sides. A lo
 
 The entire situation was a tinderbox ready to explode.
 
-XxXxXxXxXx
+---
 
 "Thankfully, tensions are currently running high, allowing us options in both our infil and exfil."
 
@@ -165,7 +165,7 @@ XxXxXxXxXx
 
 "Charlie team is preparing to board the next supply train to the facility, that will be exfil one…"
 
-XxXxXxXxXx
+---
 
 The horizon was glowing red, people around their shack were waking up. It was in the tent city, simmering with restrained tension, that the 28th SAS had established themselves.
 
@@ -181,7 +181,7 @@ Despite the massive sheets of paper, there were still blank spots in the map. Th
 
 He and his entire team would have liked to wait for more intelligence, but with the true nature of the facility exposed, the Fusoans would be desperate. The longer they waited, the less of there would be for them to rescue.
 
-XxXxXxXxXx
+---
 
 Yasmine Sudoki made a wide turn, trying to manoeuvre around a thick cloud bank. She had been on a scouting flight, looking over the black swarms of Neuroi far below her to the east when the weather took a turn for the worse.
 
@@ -203,13 +203,13 @@ A red glow.
 
 Yasmine felt a brief sensation of heat.
 
-XxXxXxXxXx
+---
 
 "Sunray, this is Delta, they've got a sub the size of a cruiser here. Do we have final?"
 
 "Delta, this is Sunray. You have final. Begin."
 
-XxXxXxXxXx
+---
 
 A single burst of static rang over the radio. Halvildar glanced around, every man around him nodded once in unison. His men were all ready.
 
@@ -225,7 +225,7 @@ He turned to his men and nodded. Three hauled back a heavy piece of canvas, and 
 
 Pulling down his helmet, Havildar grabbed the rope and rappelled down, followed by the 32 men of squads one and two of the Special Air Services Twenty Eighth Platoon.
 
-XxXxXxXxXx
+---
 
 "Jamming? Across the entire theatre?"
 
@@ -235,7 +235,7 @@ General Joeseph Stillwell frowned, rubbing at his stubble. The bloody Neuroi wer
 
 "Alert all sectors to go to condition one, I want eyes looking everywhich way."
 
-XxXxXxXxXx
+---
 
 "They come."
 
@@ -246,7 +246,7 @@ Meeting her eyes, Nina languidly shook her head, also standing up, "Not to the n
 
 Silently as one, the other 50 Witches of Berkut Wing stood and started filing out of the mess hall.
 
-XxXxXxXxXx
+---
 
 "Sunray, we've got a snag. The train has a detachment of Witches alongside what looks like a platoon of soldiers on it and none of the regular crew."
 
@@ -262,7 +262,7 @@ XxXxXxXxXx
 
 "Negative Sunray. No insignia. Soldiers are multinational. Witches are European, that's as much as I can tell."
 
-XxXxXxXxXx
+---
 
 Far under the ground, a river flowed. Running through the volcanic tunnels that ran through the hard igneous rocks buried far below the soft sediments deposited by the Songhua river, the underground Songhua river had a flow rate more than five thousand times greater than the above ground river.
 
@@ -286,7 +286,7 @@ Dripping water, the Witch calmly placed the receiver back onto the switch hook.
 
 "Shrikes, move out."
 
-XxXxXxXxXx
+---
 
 "Sunray, there are other spec ops in the underground docks. Witches. Unknown allegiance."
 
@@ -294,7 +294,7 @@ XxXxXxXxXx
 
 "Confirm Acorn, Delta squad is already in the subs. They're blue water subs so I can't raise them on comms either."
 
-XxXxXxXxXx
+---
 
 Janissary Bond placed another demolition charge delicately above the hanging light. Below, staff hurried back and forth, unaware of the Witch that prowled on the lights above them.
 
@@ -310,7 +310,7 @@ Agent 007 thumbed her throat mike twice, the magic boosted radio sending the sig
 
 A snag.
 
-XxXxXxXxXx
+---
 
 Still leaving the occasional drop of water behind them, the Witches of Shrike squad sprang forth into the compound. The retrieval of researchers and their research was their primary objective, but collecting samples of the experimental subjects was a vital secondary objective.
 
@@ -322,7 +322,7 @@ It was clean unlike the dusty surroundings. Newly placed.
 
 Clearly other nations wanted a piece of the pie.
 
-XxXxXxXxXx
+---
 
 "Hello Shack Two, we're now at condition one, you guys got anything for us?"
 
@@ -334,13 +334,13 @@ XxXxXxXxXx
 
 "Boss, Shack Two is off the line. Neuroi may be heading due west."
 
-XxXxXxXxXx
+---
 
 "Sunray, go or no go. We cannot disarm the presets."
 
 "Sunray to all. OVERCAST is go. Repeat, go loud, go loud."
 
-XxXxXxXxXx
+---
 
 "Huan woumen de ren! Huan woumen de ren! Huan woumen de ren!" The gathering civilians were just beginning to chant, shouts ringing out as they pressed against the outer fence.
 
@@ -354,7 +354,7 @@ Finally, screams ran out as people fell, painted red.
 
 One Fusoan guard stepped forwards, then stumbled back as red dots stitched up his body, a Zhongwen soldier pouring machinegun rounds into him.
 
-XxXxXxXxXx
+---
 
 "Sierra to Sunray. Diversion successful, both sides have opened up. We're in. Moving to primary objective."
 
@@ -362,7 +362,7 @@ XxXxXxXxXx
 
 "Sunray to Charlie, hold fire, only fire if fired upon."
 
-XxXxXxXxXx
+---
 
 "Uhhh, Sunray. Alarms are ringing and this nest of ants has been kicked."
 
@@ -372,7 +372,7 @@ XxXxXxXxXx
 
 "Now of all times…"
 
-XxXxXxXxXx
+---
 
 Alarms rang out, almost deafening Sergeant Fazal.
 
@@ -380,7 +380,7 @@ Alarms rang out, almost deafening Sergeant Fazal.
 
 Squads three and four of the 28th SAS abandoned all pretences of subtlety, charging right into the guard checkpoint, silenced weapons coughing.
 
-XxXxXxXxXx
+---
 
 Alarms rang through the room.
 
@@ -390,7 +390,7 @@ Havildar had not the heart to refuse them, even though he knew most of those in 
 
 It was too early for Agent 007 to spring the alarm and detonate her charges. Something had gone wrong.
 
-XxXxXxXxXx
+---
 
 "This is not a question of jurisdiction! The Neuroi are on their way!"
 
@@ -406,7 +406,7 @@ The Zhongwen General stared resolutely at the Orussian Wing Commander. A Witch p
 
 He didn't step a single centimeter back.
 
-XxXxXxXxXx
+---
 
 "Neuroi for fucks sake! Neuroi on nape of earth flight on approach. Harbin City, you've got Neuroi less than half an hour out! By God and Nation, acknowledge!"
 
@@ -418,7 +418,7 @@ Laying his head down into his arms, he felt his eyelids droop. It was too early 
 
 Ten minutes later, Major Deng was already asleep at his desk when another phone call came in, "This is Colonel Zheng of the Perimeter defences, Harbin Base, come in!"
 
-XxXxXxXxXx
+---
 
 "Hawk Actual, emergency. Don't look now but an entire company of men just boarded your train. Spec ops, no insignia. European by the looks of them."
 
@@ -426,7 +426,7 @@ The leader of SIS 15th reconnaissance corps felt her mouth twist into a frown. W
 
 How would she deal with this?
 
-XxXxXxXxXx
+---
 
 All of those overlapping plans ground to an abrupt halt as a radio screech blasted across every frequency. From Harbin's perimeter defences.
 
@@ -436,7 +436,7 @@ The ground trembled through the entire facility and a squeal of static blasted a
 
 For a moment, the lights inside the facility flickered.
 
-XxXxXxXxXx
+---
 
 "Acorn, Spyglass! What the hell was that?"
 
@@ -446,17 +446,17 @@ XxXxXxXxXx
 
 "*Cough* Sunray. Emergency. Code Nine Nine One."
 
-XxXxXxXxXx
+---
 
 "Sunray to Sierra. Emergency code Nine Nine One. You've got twenty minutes to get what you're there for and get out. Charlie, hurry that train up, I don't care how you do it!"
 
-XxXxXxXxXx
+---
 
 Agent 007 winced as her mike screeched in her ear, loud enough for the soldiers passing beneath her to look up, breaking her Shadow Tracking. What came through next made their rising rifles a minimal concern.
 
 "Hawk Five to all, Code Nine Nine One!"
 
-XxXxXxXxXx
+---
 
 "Shrike, this is Thorn. Emergency Code Nine Nine One. Grab what you need, get back down here- hey! Who are you-?! *Mffgh*! Never mind who I am, Code Nine Nine One? Ze Neuroi? Zey're here?"
 
@@ -464,7 +464,7 @@ Shrike paused. Hesitating.
 
 Another party was down at the docks, resulting in possible mission failure, unacceptable. Shrike squad turned and sprinted down back towards the docks.
 
-XxXxXxXxXx
+---
 
 A bright flash turned the horizon white as sirens wailed out across the base. The Orussian Witches all recognised it, some rubbing at faint burn scars.
 
@@ -476,7 +476,7 @@ General Zhu stepped aside, face ashen. He rushed back towards the command post. 
 
 A tremendous rumble echoed across the base, distant thunder from the oncoming storm.
 
-XxXxXxXxXx
+---
 
 Like leviathans of lore, the Neuroi approached, over ten large types leading the charge, looming as they flew across the plains, barely meters between them and the ground. Around them, various smaller Neuroi flitted back and forth, a crowd of flies circling a carcass, sheltering behind the bulk of the large types.
 
@@ -490,7 +490,7 @@ At their speeds, the shockwave accompanying the flying behemoths was enough to t
 
 Advancing with the dawn, the Neuroi turned the Eastern sky black, bringing back the night.
 
-XxXxXxXxXx
+---
 
 Receiving word from it's own outposts sighting the Neuroi at eighty kilometers to the North East East, Harbin city had less than ten minutes before the Neuroi would enter the twenty two kilometer range of its farthest reaching defences.
 
@@ -502,7 +502,7 @@ In the one minute of flight time for the shells to reach maximum range, the Neur
 
 The shells hit exploded into tungsten spikes, the supersonic submunitions screaming down at the Neuroi force.
 
-XxXxXxXxXx
+---
 
 Colonel Zheng Ye Tian gripped the binoculars so hard his knuckled whitened. Around him, his artillery crew cheered, ecstatic at landing a first strike at the Neuroi.
 
@@ -550,7 +550,7 @@ The white glow was painfully bright for a moment.
 
 Just one moment.
 
-XxXxXxXxXx
+---
 
 Sasha Vasilyev hastily performed last minute checks on her strikers.
 
@@ -604,7 +604,7 @@ Air intakes opened wide and with the explosive boom, Berkut Wing blasted past th
 
 Below them, a war journalist took a photo, catching the Orussian Wing in flight just as another huge flash of light painted the entire vista in black and white.
 
-XxXxXxXxXx
+---
 
 The Neuroi were less than ten kilometers away now.
 
@@ -682,7 +682,7 @@ Then the Neuroi swarm of units seemed to shudder, pulling up, and back to North 
 
 The Neuroi recognised those Witches.
 
-XxXxXxXxXx
+---
 
 "Harbin?! How the fuck did the Neuroi sneak Units past the G201 Radar lines?!" General Joseph Stilwell roared. Around him, aides cowered from the towering wrath of 'Vinegar Joe'.
 
@@ -702,7 +702,7 @@ Now because of those fucking tantrums, another two hundred thousand lives were i
 
 Fucking politicians making mountains out of molehills.
 
-XxXxXxXxXx
+---
 
 "Berkut to all squadrons, the large types are too close to the city to take them down, disable then pick out the ones furthest from the City."
 
@@ -835,7 +835,7 @@ The Golden Eagle showed no mercy, swooping down on her prey.
 
 Behind them, the second wave of Neuroi smashed into the South Eastern defences of Harbin.
 
-XxXxXxXxXx
+---
 
 Occupied by the large types, the defences of the southern Perimeter did not have the opportunity to target the strange, slow, bulky large type sized pair of Neuroi that passed through, the heavily laden units flying low and slow, depending on their escorts to pass by the human defences. The unusual units lacked the glowing red of active laser panels, causing most of the defences to concentrate on the actually shooting Neuroi.
 
@@ -853,7 +853,7 @@ The ultra heavy walker was not done yet however. With a howl and the nightmarish
 
 Another three of the Ultra Heavy walkers emerged from the wreckage and tens of thousands of Neuroi infantry scuttled between their legs, the dark river of units swarming out from the transport, which was already repairing itself. The ultra heavy walkers marched through the city, mindless of the houses and factories they trampled under feet, infantry following in their footsteps, they moved determinedly south west towards the Butcher's Nest, where the other transport was now arriving.
 
-XxXxXxXxXx
+---
 
 The camp of the protesters around the Butcher's Nest was in chaos.
 
@@ -870,7 +870,7 @@ The bulky shape of the Neuroi transport roared forwards. The guns of the Fusoan 
 Ourside, people milled on the grassy plain. In the open.
 
 
-XxXxXxXxXx
+---
 
 The small Neuroi flyers screamed overhead, dozens falling to disciplined and concentrated fire from the Butcher's Nest. Training told as the fire from below smashed apart small and medium type flyers, bullets converged on Neuroi one after another, breaking apart the incoming assault one Neuroi at a time.
 
@@ -888,7 +888,7 @@ Complete and total extermination of human life.
 
 More and more transports were cresting the horizon as the vanguard transport spilled out Neuroi walkers and infantry in front of the Butcher's Nest.
 
-XxXxXxXxXx
+---
 
 "Listen up, I don't know who the hell you fellows are, but we are the Britannian SIS. You take that down on record if you want. We're here to rescue the prisoners held within that facility. Now I bet you have some fancy plans, but with the Neuroi here, they're probably down the dunny. Don't fret, the Neuroi reamed our plans good too."
 
@@ -898,7 +898,7 @@ Dressed in heritage runic armour and with a backpack strike unit equipped, she c
 
 "Now things are rapidly going up shit creek, but we're not going to let the Neuroi of all things snatch up those poor sods after all they've been through. You've probably also planning to use this train as exfil and that's fine, should be plenty of space for everyone. So, are you fellas going to keep hanging onto the bottom of the carriage, or are you going to come up and talk like decent folk?"
 
-XxXxXxXxXx
+---
 
 While the surface of the Butcher's Nest was a textbook of organised anti-Neuroi tactics as disciplined fire and choke zones stonewalled the advancing Neuroi infantry, the underground interior of the facility was an absolute mess.
 
@@ -920,7 +920,7 @@ To the south, three divisions of Zhongwen troops rushed towards Harbin from Chan
 
 Then twenty six Neuroi Sorceresses entered the underground facility from the vanguard transport, blasting apart the resistance within the upper floors, making entrances if they couldn't find one, throwing the underground scene into further chaos.
 
-XxXxXxXxXx
+---
 
 None of the chaos above and around reached Katyusha Zharkov.
 
@@ -958,7 +958,7 @@ She absently reached into her mouth. Her tongue was back, slightly numb. The hea
 
 Her hand slumped back to her side. How many of the victims that she had treated had been in a situation like what she was in now?
 
-XxXxXxXxXx
+---
 
 "Pull back! Pull-!"
 
@@ -986,7 +986,7 @@ Those explosions from the Liberion explosions detonated the South Afrikan demoli
 
 Those then set off the trigger for the Britannian explosives setup by Agent 007.
 
-XxXxXxXxXx
+---
 
 The explosions rippled through the complex, collapsing load bearing walls throughout. Due to the fact that most of the operatives had different ideas about exactly what they wanted to collapse with their explosives, many more of the critical load bearing walls collapsed than any of the special forces within had planned.
 
@@ -1002,7 +1002,7 @@ As the edges of the tunnels breached the ground, many of the reinforcing walls c
 
 That was not to plan. For anybody.
 
-XxXxXxXxXx
+---
 
 With an electronic pulse, Sorceress R731SV2-2 rebooted.
 
@@ -1033,7 +1033,7 @@ The local planetary surface was undoing rapid sedimentary shift. Possible risk t
 
 She sent the report directly to Superior Existence A1, then continued on, heading deeper into the facility. Her sisters had already eliminated many humans deemed hostile to their objectives and secured the wellbeing of their objectives.
 
-XxXxXxXxXx
+---
 
 Katyusha grimaced as the lights flickered out. Light deprivation again?
 
@@ -1095,7 +1095,7 @@ False hope is better than no hope.
 
 She walked forwards, grabbing onto his hand.
 
-XxXxXxXxXx
+---
 
 Sergeant Fazal Din lead the thin young woman out of the cell and set her next to the mentally damaged girl escorted by Private Gounder, Minori apparently was her name.
 
@@ -1111,7 +1111,7 @@ It was a boon in that they found another group of Witch holding cells. Fazal had
 
 He had seen the prisoners react so hostilely to the Fusoan girl they rescued to the extent that he had to stop them from beating the girl to death. Honestly he didn't see the point of it. They all looked the same to him in the ways that mattered. The Orussian girl just rescued was the only one who seemed glad at the sight of her.
 
-XxXxXxXxXx
+---
 
 Janissary Bond ducked carefully over rubble, jogging down the corridor. Above her the lights flickered constantly, the flashing lights overwhelming even her enhanced eyes at times.
 
@@ -1121,7 +1121,7 @@ Her tracker hummed almost audibly. Third squad should be near now.
 
 The improvised dowsing rod spun rapidly. She was directly above or below third squad now.
 
-XxXxXxXxXx
+---
 
 "Hawk, you sure we should be doing this?" questioned Kyte Rodin gruffly, the leader of the 106th Irregular Operations man puffing on cigar. With his tinted glasses, rough beard and lit cigar, he pulled off a great façade of unconcern, but one look at his white knuckled grip on the railing showed it to be a lie.
 
@@ -1143,7 +1143,7 @@ The two men shared a short moment of comradely silence as the armoured train bar
 
 The body count on top of that hill was going to rise sharply by the end of the morning, one way or another.
 
-XxXxXxXxXx
+---
 
 Finally, the last of the fifteen large types over the Northern plains crashed into the ground, laser panels destroyed, internals shredded and finally core speared by a lance of ice, exploding into silvery dust on the scorched glass north east of Harbin.
 
@@ -1171,7 +1171,7 @@ The two flights of Witches nodded to her in affirmation, the roar of jet engines
 
 The Wing reformed, slightly uneven at the missing Witches, and burned south back towards the Neuroi.
 
-XxXxXxXxXx
+---
 
 The information that flowed across a Neuroi network was overwhelming. Every second, more than an exabit of information was exchanged between the various individual existences upon Earth that were collectively known to humanity as 'Neuroi'. While most of these one hundred or so petabytes that were exchanged across the Neuroi Net every second were useless for combat operations, consisting of data validation, up to one fifth of information consisted of useful information such as relative positions, status of individual and group units and of environmental conditions.
 
@@ -1271,7 +1271,7 @@ Negligently swatting aside the light fliers in their path, the Orussian Wing of 
 
 Now, with such improvements to the Neuroi units, the Witches, formerly the absolute trump, no longer stood supreme.
 
-XxXxXxXxXx
+---
 
 Fazal frowned as the mass of humans advanced towards an intersection.
 
@@ -1355,7 +1355,7 @@ Fazal grinned broadly, saluting her with a flourish of his stolen blade, "Specia
 
 Sergeant Fazal Din died standing, his body burning slowly in the underground tunnels of the Butcher's Nest.
 
-XxXxXxXxXx
+---
 
 "Berkut, more Neuroi. Eyes on Sorceresses escorting transports to the east. I count sixteen, that is one six."
 
@@ -1456,7 +1456,7 @@ Orel Squadron flew right for the Butcher's Nest.
 
 Sasha felt a shiver run through her at Sofia's words, "By God and Nation I pray we succeed."
 
-XxXxXxXxXx
+---
 
 Lietenent Gurung sprinted forwards with three others of SAS 28th first squad, the vanguard only making the slightest checks at corners. The hallways had been damaged by the disparate sets of demolition charges and sections of the ceiling had collapsed, letting in dark soil into the white hallways, there could be people waiting around every shadow, but it was a risk Havildar was willing to take.
 
@@ -1481,7 +1481,7 @@ Where were all the men of Squad three?
 
 "We move for the surfaced tunnels, 28th! Form up!"
 
-XxXxXxXxXx
+---
 
 "Squad Four, charges set!"
 
@@ -1519,7 +1519,7 @@ Lasers.
 
 Bullets.
 
-XxXxXxXxXx
+---
 
 The outside of the complex was a charnel house.
 
@@ -1553,7 +1553,7 @@ The 28th SAS hastily set themselves up and waited for the hammer to drop.
 
 The forces around them did not make them wait long.
 
-XxXxXxXxXx
+---
 
 The first first to come were a force from the breached exit of the tunnel within twenty seconds of the explosion as the SAS were still setting up their defensive positions. To Havildar's surprise, it was not Neuroi whom entered, but Fusoan soldiers.
 
@@ -1593,13 +1593,13 @@ However, much worse was the fact that Neuroi were emerging from within the facil
 
 Behind him, Nathani swung a tired salute, "You can rely on me sir."
 
-XxXxXxXxXx
+---
 
 At the other end of the barricades, towards the breach in the tunnels, it was pure pandemonium. Neuroi infantry bots swarmed inside the facility, the Medium type Walker behind them suppressing any possible response from the SAS light infantry. The mass of nearly forty bots paused before an intersection, then a single Neuroi walker ran forward. A click sounded as booby traps set off, blowing it apart. Before the smoke even cleared, more Neuroi poured around the corner, lasers lashing out at the SAS, their positions marked by the first infantry bot as it died.
 
 Men were cut down, lasers now aimed at their arms and legs when shots to the throat and face were impossible, the limbs bereft of the laser resistant ballistics plating. Damaged Neuroi fell back, drifting to rear of the ranks with co-ordination that would be the envy of an Olympic cyclist team, ranks of its fellows providing the world's best ablative armour as those in rear regenerated. Wherever the Neuroi came under fire from, their return fire was perfect, lasers missing their comrades by millimetres. In situations where even the best trained human soldiers would not fire for hesitation of striking friendlies, the Neuroi infantry walkers fired freely, co-ordinating with each other to provide omnidirectional coverage and perfect lanes of fire in all situations.
 
-XxXxXxXxXx
+---
 
 Lieutenant Havildar sprinted towards the tunnel entrances, past the nervous looking prisoners. Even though they knew that the Neuroi were in front of them, the dread of the cells and facilities behind them pushed them to stay. They would all rather die than return.
 
@@ -1643,12 +1643,12 @@ No, anything but that, those people did not deserve such an end after coming so 
 
 His vision snapped back. Lieutenant Havildar leapt to his feet. The fifteen remaining men of SAS second and fourth squads rose with him and as one, they roared, a primeval sound, a howl of defiance.
 
-XxXxXxXxXx
+---
 
 [Existence: Heavy Mining Platform A731UHWV1-5: Warns of Class X characteristics appearing within Soft Target 29566 at 06:13:53]
 [Existence: Heavy Mining Platform A731UHWV1-5: Redesignates Soft Target 29566 as Hard Target 209 at 06:13:53]​
 
-XxXxXxXxXx
+---
 
 Bullets rakes across the wave of Infantry bots. Whereas before three bullets were needed to break the shields and another two directly over the core were required to kill one, now, singular bullets smashed through the shields and explosively connected with the Neuroi infantry, shattering them. His Urumi snaked, out, the steel whips cutting through Neuroi, shields and all, in a single stroke regardless of their type, the medium walkers falling as easily as infantry, he even managed to pluck a careless small flier out of the air.
 
@@ -1690,7 +1690,7 @@ A horn blared along with the thunder of a diesel engine train. The evacuation tr
 
 Lieutenant Havildar closed his eyes, his spirit fading away as the magic sustaining it depleted.
 
-XxXxXxXxXx
+---
 
 "Thirty seconds!" bellowed Kyte as his brand new Orussian Avtomat Kalashnikova rifle kicked against his shoulder, spitting rounds at the Neuroi downrange.
 
@@ -1724,7 +1724,7 @@ Alright, never mind that, fuck the Fusoans. It was one thing that was annoying a
 
 Next to him, the other Platoon leader leaned on the whistle, the train horn blasting out a warning and a signal for their respective teams within the complex, the loudest warning they could give with the jamming.
 
-XxXxXxXxXx
+---
 
 "Orel squadron, we flyby the train, destroying the harassing Neuroi, then split into your flights. One and Two will circle the perimeter, picking off Neuroi within the grounds. Conserve ammo and don't bother with the transport, it'll have offloaded its entire load by now. We probably won't have time to replenish until after we leave here. Flights Three and Four, enter the facility, search for prisoners. After clearing the immediate surroundings, Orel One and Two will follow you. Remember Orel, one hundred and fifty seconds is all you get!"
 
@@ -1818,7 +1818,7 @@ Cutting down the walker in turn, Sasha searched for survivors on the burning SPA
 
 A thunderous bang rang out as metal gates were smashed aside, a train entering the courtyard, shovel shaped prow shoving aside displaced soil that lay on the rails.
 
-XxXxXxXxXx
+---
 
 Sergeant Nasr Bilgrami heard the blast of the horn as he ran towards the mouth of the tunnel. The prisoners standing aside for the SAS men looked on with desperate hope. The train was here, but what stood between them and the train? Lieutenant Havildar had gone to the mouth of the tunnel, but he hadn't sent a runner back to the men at the other sides of the barricades.
 
@@ -1868,7 +1868,7 @@ Forming a backplate with a magic shield, the Wing Commander blasted into the sky
 
 Sergeant Bilgrami silently wished for her good luck as the prisoners finally began stepping into the sun, stumbling towards the train.
 
-XxXxXxXxXx
+---
 
 Flight Lieutenant Sofia Domnin lead Orel flights three and four deeper and deeper in the complex, their Jet Strikers whirring as they ran on turbine power. She anxiously counted down the seconds in her head, the complex was labyrinthine and they did not have much time.
 
@@ -1888,7 +1888,7 @@ They found dozens of prisoners in terrible condition. They found Neuroi infantry
 
 They found dozens of Sorceresses guarding those walkers.
 
-XxXxXxXxXx
+---
 
 Sasha swung into the air, heading for the entrance that Orel flights Three and Four used. As she rose, line of sight to the plains was re-established and a radio message came in.
 
@@ -1932,7 +1932,7 @@ Without a word, the injured Witches turned and burned, pulling through the corri
 
 Sasha scowled and pulsed an omnidirectional shield, pushing at the surrounding corridors, lifting the ceiling for dozens of meters. The Neuroi Witches realised almost immediately what she planned and flew backwards. Still too late however, as Sasha let go of the materials and walls she was holding up, collapsing the corridor and those of the intersection for dozens of meters.
 
-XxXxXxXxXx
+---
 
 Yion and Orel flight One were buzzing at the entrance of the facility when Flights Three and Four blasted out. The injured Witches setting down on the ground as the command from Sasha's magic disappeared now they were outside the facility. They had barely escorted the injured Witches to the train when a huge plume of dust exploded from the entrance of the Butcher's Nest, a small sinkhole forming in the ground as some part of the underground facility collapsed.
 
@@ -1944,7 +1944,7 @@ The two dozen Sorceresses that followed, erupting from the ground like blood soa
 
 From the North the other group of sixteen Sorceresses banked and closed hard, intent on joining in on the developing dogfight above the Butcher's Nest, dragging Sokol, Jastreb and an additional twenty local Witches towards the facility with them.
 
-XxXxXxXxXx
+---
 
 Shots rang out and yet another pair of Neuroi infantry bots collapsed in front of Janissary as she cleared the route to the surface.
 
@@ -2073,14 +2073,14 @@ A red and violet glow filled the corridor as the Neuroi Sorceress rose, shruggin
 
 Janissary entered the shadows, escaping.
 
-XxXxXxXxXx
+---
 
 Back in the corridor, the Neuroi collapsed into a pile, parts of its body detaching as the quickly made facsimile disintegrated, red lights rapidly fading.
 
 [Existence: Sorceress R731SV4-8 Begins repair cycle (Chassis: Catastrophic + Weapon Systems: Catastrophic + Sensors: Catastrophic + Mobility Systems: Severe + Core Systems: Moderate)]
 [Existence: Sorceress R731SV4-8 Notes success of Tactic 915 (High luminosity bluff) on Hard Target 215]​
 
-XxXxXxXxXx
+---
 
 Sasha twisted her body to the side, dodging a pair of lasers and keeping a Sorceress in her sights at the same time. Her HS.404 kicked and five 20mm shells streaked towards the Sorceress. It dodged the way only the Neuroi could, abruptly decelerating without any change in stance, but Sasha guided the rounds in with magic, slamming them into the Sorceress. The cannon rounds broke through the shields and slammed into the Neuroi, detonating and blowing apart the Sorceress.
 
@@ -2161,7 +2161,7 @@ I have to save my girls.
 
 "Berkut. Pick up our injured. We're leaving the rest behind."
 
-XxXxXxXxXx
+---
 
 "Wait, where are we going?"
 
@@ -2221,7 +2221,7 @@ The corridor rumbled again, Janissary grabbed Minori and sprinted away, dragging
 In her last moments Katyusha Zharkov smiled, maybe she had managed to repay her life debt after all.
 The rest of the hallway collapsed.
 
-XxXxXxXxXx
+---
 
 Harbin southern Perimeter headquarters was in chaos. When Colonel Zheng has gone up in smoke, so had most of the other officers who were actually in charge of the Harbin Perimeter. Southern Perimeter was supposed to fall under the command of South Harbin logistic base, but General Zhu had headed north towards the city proper with the garrison from the base, leaving no senior officers on call.
 
@@ -2261,7 +2261,7 @@ M115s, out of range to fire upon the northern group of Neuroi, turned, depressin
 
 Chain lightning that once again rolled through the Manchurian plain.
 
-XxXxXxXxXx
+---
 
 "…What was that Berkut? You radio was malfunctioning."
 
@@ -2283,7 +2283,7 @@ XxXxXxXxXx
 
 "Berkut, belay last. Avalon Ancient Magic formation. While we still have the time, go!"
 
-XxXxXxXxXx
+---
 
 "Here, the wall should be thin enough…"
 
@@ -2369,7 +2369,7 @@ More gunshots ran out. The charitable girl stumbled back with a shriek as anothe
 
 The last Zhongwen prisoner dithered for split second, looking torn, then ran for the submarine as another Neuroi infantry bot turned the corner stumbling as bullets struck it.
 
-XxXxXxXxXx
+---
 
 With a hiss of pneumatic gas, the hatch on top of the submarine closed and it slipped into the dark waters, descending to safety.
 
@@ -2395,7 +2395,7 @@ One bullet. One purpose.
 
 Bang
 
-XxXxXxXxXx
+---
 
 With a crash, the train settled down in Northern Harbin. A huge, ragged cheer echoed from within as the former prisoners spilled forth, hugging each other, kissing the ground, delirious with happiness now they were free.
 
@@ -2431,11 +2431,11 @@ Finally, she simple spread her arms. Sasha leaned forwards into the hug, utterly
 
 "I'm sorry we weren't here."
 
-XxXxXxXxXx
+---
 
 "A great disaster? No, we could not have hoped for a greater success. The Neuroi went out of their way to attack the Children of Heaven. We have finally discovered something even they fear. Accelerate the research, everything is now available to you. Kannagara will be our salvation!"
 
-XxXxXxXxXx
+---
 
 "Huaah…" mummered Minori, looking at the various lights of the status indicators in the cockpit of the submarine.
 
@@ -2447,7 +2447,7 @@ Two of the former prisoners walked towards her, holding bars of metal, broken fr
 
 Hate glimmered in their eyes.
 
-XxXxXxXxXx
+---
 
 And then there were None. 
 

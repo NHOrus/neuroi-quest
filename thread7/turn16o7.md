@@ -128,7 +128,7 @@ Snapping, she spun on heel to address him directly, "Pardon me mister Yamada, bu
 
 Yamada looked over her in sympathy and nodded, "Very well then, Miss. Your roommate and partner has already arrived I believe. Right this way."
 
-XxXxXxXxXx
+---
 
 The apartments for the staff turned out to be a pair of buildings to the east and west of the main complex, attached by short suspended corridors.
 
@@ -159,7 +159,7 @@ Yamada was standing at the door, looking grim. "We have new patients, ICU. The f
 
 The two witches gave each other a single look, then took off running, followed closely by their guide.
 
-XxXxXxXxXx
+---
 
 "Left turn ahead."
 
@@ -213,7 +213,7 @@ Recovering quickly, Katyusha scanned the patient again, despite being there as M
 
 As one, they removed their hands and moved around the table to the next girl. They washed their hands clean of blood and once again, began the operation.
 
-XxXxXxXxXx
+---
 
 Katyusha and Minori sat back against the wall, both magically exhausted. Even with her magically efficient technique, Katyusha had to take over as healer for Minori for the last pair of girls. With a sigh, Minori slid to the side and leaned against Katyusha. Katyusha startled slightly at the unexpected contact, and Minori pulled herself upright before Katyusha could relax into the gesture.
 
@@ -247,7 +247,7 @@ Katyusha's guide hesitated for a second, seemingly thrown off by Minori's switch
 
 Next to her, Minori giggled as she settled down in her seat, "No way Katyusha, you must have heard him wrong. Matsuda Yamada? Those parents would have to be cruel indeed to name their son that. Thanks for the food, let's eat."
 
-XxXxXxXxXx
+---
 
 What do you make of their performance
 It's… extraordinary. Thirteen Two is above average already, but Thirteen One… you were right to call her a miracle worker.
@@ -257,7 +257,7 @@ If we had received news of her skills earlier, we would have. Regional command i
 Gods and Nation, if only we knew earlier…
 It's too late now to change our methods, if Thirteen One was onside earlier, perhaps then…
 
-XxXxXxXxXx
+---
 
 It was late afternoon when the two girls stumbled back to their room. Yamada left them at the door, assuring them that if needed, they would be called through the telephone on the desk set before the window.
 
@@ -291,7 +291,7 @@ Red like the Neuroi.
 
 Red like blood.
 
-XxXxXxXxXx
+---
 
 The two medical witches settled down on as much of a pattern as medical witches could keep after the somewhat frantic first day. Despite being nominally on vacation, they still kept their battlefield habits.
 
@@ -311,7 +311,7 @@ It was not that the witches preferred being busy, simply that their schedule did
 
 Injuries waited for no one.
 
-XxXxXxXxXx
+---
 
 Do you believe you can replicate it, Ichi?
 Sorry daddy, I can't understand, she keeps switching to that other language too.
@@ -319,7 +319,7 @@ What of you Nii?
 I… I'm sorry but-
 No matter. It appears that we need to arrange have to you all view it in person.
 
-XxXxXxXxXx
+---
 
 "I had thought that I could actually find regular sleeping hours on a vacation." murmured Minori, rubbing the sleep out of her eyes as the two once again ran through the featureless corridors at three before dawn. Another day, another operation.
 
@@ -367,7 +367,7 @@ Katyusha hesitated, Minori was completely absorbed in her healing, and for injur
 
 She turned away, diving into the delve, noticing with a distant irritation how each of the other witches ignored her and immediately placed their own hands on the patient.
 
-XxXxXxXxXx
+---
 
 "Object lodged between clavice and first rib." muttered Minori, eyes fluttering as she struggled to stay awake. She had taken over delving. It was their third shift between roles during this exhausting ten hour operation.
 
@@ -393,7 +393,7 @@ Both girls barely made it to their rooms before falling right into bed. Katyusha
 
 Her eyes closed as soon as she hit the mattress, uncaring of the mid morning light peering around the edges of the window blinds.
 
-XxXxXxXxXx
+---
 
 Katyusha had lived on the battlefield for more than half of her life. At first, as a refugee constantly moving East with the others after her home city was burnt to the ground alongside her parents.
 
@@ -425,7 +425,7 @@ Katyusha hissed a breath at the hint present Yamada's words. Biological and chem
 
 Katyusha sighed and flopped onto bed, maybe she should try sleeping for more than six hours at a time, she heard doing so was very relaxing…
 
-XxXxXxXxXx
+---
 
 The bombardment was relentless, the heavy shells of human artillery arcing overhead, shaking her position. Katyusha didn't not falter, even as the surgical lamps burnt out, casting the field hospital into darkness. Her hands were buried in the guts of the injured soldier in front of her. Every time she moved, fresh, vibrant blood pumped up, drowning her fingers as she methodically found arteries and veins, sewing them back together with magic.
 
@@ -458,7 +458,7 @@ She choked on the blood of others.
 
 Katyusha didn't bother with her pants, simply throwing her jacket over her shoulders and ran after Minori.
 
-XxXxXxXxXx
+---
 
 "Hold her down! Where is she injured?"
 
@@ -573,7 +573,7 @@ A huge blast of magic and scalding air threw Katyusha back, slamming her into th
 
 The shock on her already damaged system was too much and she passed out.
 
-XxXxXxXxXx
+---
 
 Incredible.
 …That was far too close, what would you have done if Thirteen One touched the vector first?
@@ -581,7 +581,7 @@ Thirteen two always, without exception, delves first. As you could see, even if 
 You are being far too reckless, that gamble could have cost us everything.
 But it paid off, Thirteen One can directly manipulate Koschei, fruition of our plans is just around the corner. Project 731 can succeed. We will win, the nation is saved.
 
-XxXxXxXxXx
+---
 
 With a gasp, Katyusha woke up.
 
@@ -617,7 +617,7 @@ Katyusha settled back, soothingly stroking Minori's hands with her thumbs.
 
 She could live with a few bruises.
 
-XxXxXxXxXx
+---
 
 By the time they were let out of the room, Minori had calmed down, a slight flush to her cheeks all that hinted to her slight breakdown.
 
@@ -633,7 +633,7 @@ At this, her gaze turned determined, "Besides, the sooner I can find a way to st
 
 With a swish of damp dark hair, she was walking away with a gaggle of scientists, she called back to Katyusha, "I'll find a way for us to wipe that abomination out and be back by dusk."
 
-XxXxXxXxXx
+---
 
 Minori was not back by dusk.
 
@@ -649,7 +649,7 @@ More than ever, the strange atmosphere in the air intensified, malicious, wrappi
 
 Her shift over at dusk without a single call or sign of Minori, Katyusha threw herself back into the thin mattress of her bed and sulked for an hour, doing her best to ignore the smell, which had thickened almost into a taste, before falling asleep.
 
-XxXxXxXxXx
+---
 
 Following is an analysis of Koschei strain XK-Seven, codenamed KANNAGARA
 Brief:
@@ -685,7 +685,7 @@ In conclusion:
 In all three cases, the resultant disintegration of hostile elements within the 500 meter kill radius without the damage of economic resources or creation of residual dangerous elements presented satisfactory results. Further research is heavily encouraged.​
 
 
-XxXxXxXxXx
+---
 
 Katyusha pressed down on a limb which stretching towards the air, asking for salvation.
 
@@ -733,7 +733,7 @@ Still empty.
 
 Katyusha lay there alone. Awake.
 
-XxXxXxXxXx
+---
 
 May 27th, 1946
 
@@ -883,7 +883,7 @@ Minori stood up, turning (molecular breakdown) the vomit on her knees and one th
 
 "Be ready then. When someone comes to look for me, say you didn't see me." Minori turned and exited the room.
 
-XxXxXxXxXx
+---
 
 [SIS 15R Open Channel]
 'All Hawks, Morning call, any news.'
@@ -906,7 +906,7 @@ XxXxXxXxXx
 'C'mon now Four, you know how hard it is to get a guy in a unit like ours? We need to have our fun before he goes and joins up with the Paras or something.'
 'Well, if it's one unit that's been recruiting hard, it's the Paras.'​
 
-XxXxXxXxXx
+---
 
 Katyusha lay on her bed, fighting to stay still. After an entire after an entire night of doing so, and a hidden clock ticking down in her head, she was having a hell of a time of it. Still, she lay silently under the sheets, she had wrenched the window back closed so that if someone checked at the door, things would look perfectly normal.
 
@@ -1026,7 +1026,7 @@ She turned and sprinted, crushing the magic earbud between her fingers. As usefu
 
 She sprinted down the corridor, the countdown ticking down in her head.
 
-XxXxXxXxXx
+---
 
 Katyusha sprinted past her door and the alarm clock in her head fell silent.
 
@@ -1129,7 +1129,7 @@ Going into a crouch, she glared at the assembled soldiers, "I know how to fix yo
 
 The expressionless men raised their guns. The trio of witches pulled out clubs. Katyusha charged forwards.
 
-XxXxXxXxXx
+---
 
 [SIS 15R Open Channel]
 'Overlord. This is Hawk Actual, it appears to be a breakout. Single strike witch exited building, hijacked car. Currently en route to western suburbs. Wait one. Hotel Two appears to be scrambling pursuers.'
@@ -1140,7 +1140,7 @@ XxXxXxXxXx
 'Overlord this is Hawk Nine, large scale alert announced in Nationalist Garrisons on this side. They're on their way the western side also.'
 'Hawk Nine, copy.'​
 
-XxXxXxXxXx
+---
 
 [SIS 15R Open Channel]
 'Overlord. This is Hawk Seven, a second large convoy just moved out from Hotel Two, numbers around one battalion.'
@@ -1149,13 +1149,13 @@ XxXxXxXxXx
 '…No. I've got a feeling something is up with that pursuit, we follow.'
 '*Sigh* Copy that Overlord. We'll not get a chance as good as this again I bet.'​
 
-XxXxXxXxXx
+---
 
 [SIS 15R Open Channel]
 'Overlord, this is Hawk Two. Staff from Charlie One are shadowing the Mark. Wait one. Jane Dee has exposed herself and is approaching the Mark.'
 'Copy Hawk Two, attempt to intercept conversation. Call other Hawks if needed.'​
 
-XxXxXxXxXx
+---
 
 Katyusha slowly woke up. The sounds around her were strange and unusual, echoing back and forth. Her vision was blurry and her left eye was stuck closed. A persistent headache throbbed. Pain surged through her body as she tried to move.
 
@@ -1201,7 +1201,7 @@ He flickered his eyes upwards, the cold, compasionless orbs lingering on her for
 
 A movement to her side. Katyusha turned her head as something struck the back of her neck. A surge of foreign magic shocked Katyusha's system. Her vision faded back into darkness.
 
-XxXxXxXxXx
+---
 
 [SIS 15R Open Channel]
 'Overlord. We are unable to get close enough to the Mark and Jane Dee.'
@@ -1221,14 +1221,14 @@ XxXxXxXxXx
 
 "I… very well, I will consider it." Liu Xin felt the words stick in her throat. She couldn't meet Minori's eyes.
 
-XxXxXxXxXx
+---
 
 [SIS 15R Open Channel]
 'Overlord. This is Two. Charlie is going crazy. They're moving through all their underground passages. I think it's runners.'
 'Overlord. This is Seven, the Mark is heading towards the convoy from Hotel Two- What? I just lost her. Overlord, I lost the Mark.'
 'Hawk Two, Hawk Seven, Copy. Seven, I'm on the Mark personally, head for the convoy.'​
 
-XxXxXxXxXx
+---
 
 Katyusha once again woke up, this time, her head cleared itself very quickly though.
 
@@ -1496,7 +1496,7 @@ A hand grabbed Katyusha by the hair and wrenched her along the ground roughly, p
 
 The sound of an engine accompanied her as she fell unconscious.
 
-XxXxXxXxXx
+---
 
 "Liu Xin! Do we go in? We can divert one car, our people are in place!"
 
@@ -1510,7 +1510,7 @@ XxXxXxXxXx
 
 "…"
 
-XxXxXxXxXx
+---
 
 [SIS 15R Private Channel]
 …Jans. We take them apart.
